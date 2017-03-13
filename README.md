@@ -1,11 +1,21 @@
 # Collection-Framework
 
 ## Content
+
 ### What is Java collection framework?
 * What is an abstract data type?
+
 ### Hierarchy of Java collection framework?
 * Interfaces in Java collection framework?
-* Implementations of each interface: time complexity, typical usages?
+* Implementations of each interface: time complexity of basic operations, typical usages?
+
+### References
+
+https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html
+
+http://www.javatpoint.com/collections-in-java
+
+https://en.wikipedia.org/wiki/Abstract_data_type
 
 ## Exercise
 Given interfaces: List, Set, Map
