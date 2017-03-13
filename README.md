@@ -22,7 +22,7 @@ Given interfaces: List, Set, Map
 
 For each implemention of these interfaces, find a problem which we can use that implementation to solve in the most efficient way. 
 
-For example: when we need to cache objects we can use ConcurrentHashMap.
+For example: When we need to cache objects, ConcurrentHashMap can be used to exploit its concurrency capability.
 
 ```java
 public class CacheManager {
