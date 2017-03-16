@@ -1,0 +1,700 @@
+HSS08104.L1	%23SPLUS55BDCA	Lecture	Monday	11:00	3:00	2, 4	Merch.G31	Hss.Telford	&nbsp;
+HSS08104.L2	%23SPLUS55BDCA	Lecture	Monday	11:00	3:00	8	Merch.G4	Hss.Telford	&nbsp;
+SOC11101.L1	%23SPLUS6BCD2E	Lecture	Tuesday	9:00	2:00	2-13	Merch.H5	Co.Csn.Romdhani, Imed	Co.Man1fa	Co.Man1p	Co.Man2p	Co.Masdf1f	Co.Masdf1f-Jan	Co.Mase1f	Co.Mase1fjan	Co.Mase1p	Co.Mdim1f	Co.Mewd1f	Co.Misd1f	Co.Misue1f	Co.Misue1p	Co.Mstw1f	Co.Mstw1p	Co.Mstw2p
+ELE09105.L	%23SPLUS6FCA59	Lecture	Wednesday	15:00	1:00	2-8	Merch.H5	Eb.Ele.Edgar, Alan,Eb.Ele.Renton, Malcolm	Eb.Bengcom.3	Eb.Bengcpt.3	Eb.Bengee.3	Eb.Bengegy.3a	Eb.Bengegy.3b	Eb.Bengele.3	Eb.Bengewm.3	Eb.Bengme.3	Eb.Bengmem.3	Eb.Bengmt.3	Eb.Bengpe.3	Eb.Pd.3	Eb.St.3
+ELE.MP.2	%23SPLUSFEA7C8	Clinic	Monday	16:00	2:00	2-13	Merch.library	Eb.Ele.Mcgill, Colin,Eb.Ele.Robin, Bill	&nbsp;
+ELE.MP.2i	%23SPLUSFEA7C8	Clinic	Monday	16:00	2:00	14 - Assessment Week	Merch.library	Eb.Ele.Mcgill, Colin,Eb.Ele.Durkacz, Kate	&nbsp;
+ELE.MP.nurses	%23SPLUSFEA7C8	Clinic	Tuesday	11:00	2:00	2-13	Merch.library	Eb.Ele.Mcgill, Colin	&nbsp;
+ELE.MP.1i	%23SPLUSFEA7C8	Clinic	Wednesday	14:00	2:00	14 - Assessment Week	Merch.library	Eb.Ele.Mcgill, Colin,Eb.Ele.Robin, Bill	&nbsp;
+ELE.MP.1	%23SPLUSFEA7C8	Clinic	Wednesday	15:00	2:00	2-13	Merch.library	Eb.Ele.Mcgill, Colin,Eb.Ele.Robin, Bill	&nbsp;
+ELE.EP.1	%23SPLUSFEA7C9	Clinic	Wednesday	15:00	2:00	2-13	Merch.C16.se	Eb.Mec.Smith, Gareth,Eb.Ele.Sharp, John	&nbsp;
+BSV07100.L	BSV07100	Lecture	Monday	9:00	2:00	2-14 - Assessment We	Merch.H5	Eb.Bsv.Lee, Mike	Eb.At.1a	Eb.At.1b	Eb.At.1pt	Eb.Be.C.1at	Eb.Be.C.1bs	Eb.Be.C.1pt	Eb.Bs.1	Eb.Bs.1pt	Eb.Cpm.1	Eb.Cpm.1pt	Eb.Pdv.1	Eb.Pdv.1pt	Eb.Qs.1	Eb.Qs.1pt
+BSV07100.T/P	BSV07100	Tutorial/Practical	Monday	11:00	2:00	2-13	Merch.A25.be,Merch.E27.be	Eb.Bsv.Laing, Willie,Eb.Bsv.Lee, Mike	Eb.At.1a	Eb.At.1b	Eb.At.1pt	Eb.Be.C.1at	Eb.Be.C.1bs	Eb.Be.C.1pt	Eb.Bs.1	Eb.Bs.1pt	Eb.Cpm.1	Eb.Cpm.1pt	Eb.Pdv.1	Eb.Pdv.1pt	Eb.Qs.1	Eb.Qs.1pt
+BSV07102.L	BSV07102	Lecture	Monday	14:00	2:00	2-13	Merch.H9	Eb.Bsv.Sinclair, Grant,Eb.Bsv.Breckinridge, John	Eb.Be.C.1bs	Eb.Be.C.1pt	Eb.Bs.1	Eb.Bs.1pt	Eb.Cpm.1	Eb.Cpm.1pt	Eb.Pdv.1	Eb.Pdv.1pt	Eb.Qs.1	Eb.Qs.1pt
+BSV07102.T1	BSV07102	Tutorial	Monday	16:00	2:00	2-13	Merch.B2,Merch.H9	Eb.Bsv.Sinclair, Grant,Eb.Bsv.Breckinridge, John	Eb.Be.C.1bs	Eb.Be.C.1pt	Eb.Bs.1	Eb.Bs.1pt	Eb.Cpm.1pt	Eb.Pdv.1	Eb.Pdv.1pt	Eb.Qs.1	Eb.Qs.1pt
+BSV07102.T2	BSV07102	Lecture	Tuesday	13:00	2:00	2-9	Merch.A19.be	Eb.Bsv.Sinclair, Grant,Eb.Bsv.Breckinridge, John	Eb.Cpm.1
+BSV07103.Induction	BSV07103	Lecture	Tuesday	10:00	1:00	2	Merch.H9	Eb.Ele.Mcgill, Colin,Eb.Ele.Robin, Bill	Eb.At.1a	Eb.At.1b	Eb.Be.C.1at	Eb.Be.C.1bs	Eb.Bs.1	Eb.Cpm.1	Eb.Pdv.1	Eb.Qs.1
+BSV07103.L/Tiii	BSV07103	Lecture	Tuesday	15:00	3:00	2-13	Merch.G2,Merch.H18,Merch.H9	Eb.Ele.Mcgill, Colin,Eb.Ele.Robin, Bill	Eb.At.1a	Eb.At.1b	Eb.Be.C.1at	Eb.Be.C.1bs	Eb.Bs.1	Eb.Cpm.1	Eb.Pdv.1	Eb.Qs.1
+BSV07103.L/Ti	BSV07103	Lecture	Thursday	10:00	1:00	2-13	Merch.B2,Merch.H10	Eb.Ele.Mcgill, Colin,Eb.Ele.Robin, Bill	Eb.At.1a	Eb.At.1b	Eb.At.2pt	Eb.Be.C.1at	Eb.Be.C.1bs	Eb.Be.C.2pt	Eb.Bs.1	Eb.Bs.2pt.	Eb.Cpm.1	Eb.Cpm.2pt	Eb.Pdv.1	Eb.Pdv.2pt	Eb.Qs.1	Eb.Qs.2pt
+BSV07103.L1	BSV07103	Lecture	Thursday	11:00	2:00	2-13	Merch.H5	Eb.Bsv.Lee, Mike	Eb.At.1a	Eb.At.1b	Eb.At.2pt	Eb.Be.C.1at	Eb.Be.C.1bs	Eb.Be.C.2pt	Eb.Bs.1	Eb.Bs.2pt.	Eb.Cpm.1	Eb.Cpm.2pt	Eb.Pdv.1	Eb.Pdv.2pt	Eb.Qs.1	Eb.Qs.2pt
+BSV07103.L/Tii	BSV07103	Lecture/Tutorial	Thursday	14:00	2:00	2-13	Merch.G2,Merch.H18	Eb.Ele.Mcgill, Colin,Eb.Ele.Robin, Bill	Eb.At.1a	Eb.At.1b	Eb.At.2pt	Eb.Be.C.1at	Eb.Be.C.1bs	Eb.Be.C.2pt	Eb.Bs.1	Eb.Bs.2pt.	Eb.Cpm.1	Eb.Cpm.2pt	Eb.Pdv.1	Eb.Pdv.2pt	Eb.Qs.1	Eb.Qs.2pt
+BSV07103.W	BSV07103	Workshop	Thursday	16:00	1:00	2-13	M.Kilby.C12,M.Kilby.C15,M.Kilby.C16,M.Kilby.C11	Eb.Ele.Mcgill, Colin,Eb.Ele.Robin, Bill	Eb.At.1a	Eb.At.1b	Eb.At.2pt	Eb.Be.C.1at	Eb.Be.C.1bs	Eb.Be.C.2pt	Eb.Bs.1	Eb.Bs.2pt.	Eb.Cpm.1	Eb.Cpm.2pt	Eb.Pdv.1	Eb.Pdv.2pt	Eb.Qs.1	Eb.Qs.2pt
+BSV07103.T1	BSV07103	Lecture	Thursday	17:00	1:00	2-13	Merch.A17	Eb.Bsv.Lee, Mike	Eb.At.1a	Eb.At.1b	Eb.At.2pt	Eb.Be.C.1at	Eb.Be.C.1bs	Eb.Be.C.2pt	Eb.Bs.1	Eb.Bs.2pt.	Eb.Cpm.1	Eb.Cpm.2pt	Eb.Pdv.1	Eb.Pdv.2pt	Eb.Qs.1	Eb.Qs.2pt
+BSV07105.L	BSV07105	Lecture	Monday	14:00	4:00	2-13	Merch.E32.be	Eb.Bsv.Wood, John,Eb.Bsv.Paterson, Stephen	Eb.At.1a	Eb.At.1b	Eb.At.1pt	Eb.Be.C.1at
+BSV07107.L	BSV07107	Lecture	Friday	16:00	1:00	2	Merch.B2	Eb.Bsv.Lee, Mike	&nbsp;
+BSV08103.L1	BSV08103	Lecture	Tuesday	9:00	4:00	2-13	Merch.E27.be	Eb.Bsv.Wood, John,Eb.Bsv.Andrew, Graeme,Eb.Bsv.Andrew, Hazel	Eb.At.2a	Eb.At.2b	Eb.At.3pt
+BSV08103.L2	BSV08103	Lecture	Wednesday	9:00	4:00	4, 6, 8, 10, 12-13	Merch.E27.be	Eb.Bsv.Wood, John,Eb.Bsv.Andrew, Graeme,Eb.Bsv.Andrew, Hazel	Eb.At.2a	Eb.At.2b	Eb.At.3pt
+BSV08104.Per	BSV08104	Reflection	Tuesday	9:00	1:00	2-13	Merch.D60a.be	Eb.Bsv.Thomson, Mike	Eb.Bs.2	Eb.Cpm.2	Eb.Pdv.2	Eb.Qs.2
+BSV08104.L	BSV08104	Lecture	Tuesday	10:00	3:00	2-13	Merch.F27	Eb.Bsv.Thomson, Mike	Eb.Bs.2	Eb.Bs.3pt	Eb.Cpm.2	Eb.Cpm.3pt	Eb.Pdv.2	Eb.Pdv.3pt	Eb.Qs.2	Eb.Qs.3pt
+BSV09100.L	BSV09100	Lecture	Tuesday	10:00	3:00	2-13	Merch.A17	Eb.Bsv.Brown, Andrew	Eb.At.3	Eb.At.4pt	Eb.Bs.3	Eb.Bs.4pt	Eb.Cpm.3	Eb.Cpm.4pt	Eb.Qs.3	Eb.Qs.4pt
+BSV09101.Per	BSV09101	Tutorial	Thursday	9:00	1:00	2-13	Merch.E41a.be	Eb.Bsv.Sinclair, Grant	Eb.Bs.3	Eb.Bs.5pt	Eb.Pdv.3	Eb.Pdv.5pt
+BSV09101.L/T	BSV09101	Lecture/Tutorial	Thursday	10:00	3:00	2-13	Merch.H11	Eb.Bsv.Sinclair, Grant	Eb.Bs.3	Eb.Bs.5pt	Eb.Pdv.3	Eb.Pdv.5pt
+BSV09102.L1	BSV09102	Lecture	Thursday	9:00	2:00	2-13	Merch.A55	Eb.Bsv.Mason, Robert	Eb.At.3	Eb.At.5pt	Eb.Cpm.3	Eb.Cpm.5pt
+BSV09102.T1	BSV09102	Tutorial	Thursday	11:00	1:00	2-13	Merch.G2	Eb.Bsv.Mason, Robert	Eb.At.3	Eb.At.5pt	Eb.Cpm.3	Eb.Cpm.5pt
+BSV09103.L	BSV09103	Lecture	Thursday	9:00	2:00	2-13	Merch.G2	Eb.Bsv.Goodall, William	Eb.Qs.3	Eb.Qs.5pt
+BSV09103.T	BSV09103	Tutorial	Thursday	11:00	1:00	2-13	Merch.F27	Eb.Bsv.Goodall, William	Eb.Qs.3	Eb.Qs.5pt
+BSV09103.Per	BSV09103	Tutorial	Thursday	12:00	1:00	2-13	Merch.D60b.be	Eb.Bsv.Goodall, William	Eb.Qs.3
+BSV09104.Per	BSV09104	Tutorial	Tuesday	12:00	1:00	2-13	Merch.D56.be	Eb.Bsv.Andrews, Alison	Eb.Pdv.3
+BSV09104.L/T	BSV09104	Lecture/Tutorial	Tuesday	14:00	3:00	2-13	Merch.G31	Eb.Bsv.Andrews, Alison	Eb.Pdv.3	Eb.Pdv.4pt
+BSV09105.L1	BSV09105	Lecture	Tuesday	14:00	4:00	2-13	Merch.E27.be	Eb.Bsv.Wood, John,Eb.Bsv.Andrew, Graeme,Eb.Bsv.Andrew, Hazel	Eb.At.3	Eb.At.4pt
+BSV09105.L2	BSV09105	Lecture	Wednesday	14:00	4:00	4, 6, 8, 10, 12-13	Merch.E27.be	Eb.Bsv.Wood, John,Eb.Bsv.Andrew, Graeme	Eb.At.3
+BSV09107.L/Tii	BSV09107	Lecture/Tutorial	Tuesday	14:00	3:00	2, 9-13	Merch.F27	Eb.Bsv.Goodall, William	Eb.Bs.3	Eb.Bs.4pt	Eb.Cpm.3	Eb.Cpm.4pt	Eb.Qs.3	Eb.Qs.4pt
+BSV09107.L/Tiii	BSV09107	Lecture/Tutorial	Tuesday	14:00	3:00	3-5	Merch.F27	Bs.Soe.Juleff, Linda	Eb.Bs.3	Eb.Bs.4pt	Eb.Cpm.3	Eb.Cpm.4pt	Eb.Qs.3	Eb.Qs.4pt
+BSV09107.L/T1	BSV09107	Lecture/Tutorial	Tuesday	14:00	3:00	6-8	Merch.F27	Bs.Acc.Brennan, Mike	Eb.Bs.3	Eb.Bs.4pt	Eb.Cpm.3	Eb.Cpm.4pt	Eb.Qs.3	Eb.Qs.4pt
+BSV09108.L/T	BSV09108	Lecture/Tutorial	Tuesday	9:00	3:00	2-13	Merch.H17	Eb.Bsv.Deakin, Mark	Eb.Pdv.3	Eb.Pdv.4pt
+BSV10100.T1a	BSV10100	Lecture	Monday	9:00	1:00	3	Merch.C18	Eb.Bsv.Mason, Robert,Eb.Bsv.Andrews, Alison	Eb.At.4	Eb.At.6pt	Eb.Bs.4	Eb.Bs.6pt	Eb.Cpm.4	Eb.Cpm.6pt	Eb.Em.4	Eb.Pdv.4	Eb.Pdv.6pt	Eb.Qs.4	Eb.Qs.6pt
+BSV10100.T2	BSV10100	Lecture	Monday	9:00	4:00	5	Merch.C18	Eb.Bsv.Mason, Robert,Eb.Bsv.Andrews, Alison	Eb.At.4	Eb.At.6pt	Eb.Bs.4	Eb.Bs.6pt	Eb.Cpm.4	Eb.Cpm.6pt	Eb.Em.4	Eb.Pdv.4	Eb.Pdv.6pt	Eb.Qs.4	Eb.Qs.6pt
+BSV10100.T1	BSV10100	Lecture	Monday	10:00	1:00	7	Merch.C18	Eb.Bsv.Mason, Robert,Eb.Bsv.Andrews, Alison	Eb.At.4	Eb.At.6pt	Eb.Bs.4	Eb.Bs.6pt	Eb.Cpm.4	Eb.Cpm.6pt	Eb.Em.4	Eb.Pdv.4	Eb.Pdv.6pt	Eb.Qs.4	Eb.Qs.6pt
+BSV10100.L	BSV10100	Lecture	Monday	16:00	2:00	11	Merch.A17	Eb.Bsv.Mason, Robert,Eb.Bsv.Andrews, Alison	Eb.At.4	Eb.At.6pt	Eb.Bs.4	Eb.Bs.6pt	Eb.Cpm.4	Eb.Cpm.6pt	Eb.Em.4	Eb.Pdv.4	Eb.Pdv.6pt	Eb.Qs.4	Eb.Qs.6pt
+BSV10100.S1	BSV10100	Seminar	Friday	9:00	8:00	10	Merch.H14	Eb.Bsv.Mason, Robert,Eb.Bsv.Sinclair, Grant,Eb.Bsv.Andrews, Alison	&nbsp;
+BSV10104.L/T	BSV10104	Lecture/Tutorial	Thursday	13:00	4:00	2-13	Merch.A17	Eb.Bsv.Garnier, Celine	Eb.At.4	Eb.At.5pt	Eb.Bs.4	Eb.Bs.5pt	Eb.Cpm.4	Eb.Cpm.5pt	Eb.Qs.4	Eb.Qs.5pt
+BSV10106.L/T	BSV10106	Lecture/Tutorial	Tuesday	14:00	3:00	2-13	Merch.G29	Eb.Bsv.Deakin, Mark	Eb.Em.4	Eb.Pdv.4	Eb.Pdv.5pt
+BSV10111.L	BSV10111	Lecture	Monday	14:00	2:00	2-13	Merch.A17	Eb.Bsv.Garnier, Celine	Eb.Bs.4	Eb.Bs.6pt	Eb.Cpm.4	Eb.Cpm.6pt	Eb.Pdv.4	Eb.Pdv.6pt	Eb.Qs.4	Eb.Qs.6pt
+BSV11100.L/T	BSV11100	Lecture/Tutorial	Tuesday	13:00	3:00	2-13	Merch.H5	Eb.Bsv.Sloan Brian	Eb.Cpm.M	Eb.Cpm.Mpt1	Eb.Ds.M	Eb.Ds.Mpt1	Eb.E&Eeng.M	Eb.E&Eeng.Mpt1	Eb.Engr.M	Eb.Fm.M	Eb.Fm.Mpt1	Eb.Pcm.M	Eb.Pcm.Mpt1	Eb.Pmi.Mpt1_Sm	Eb.Pmi.M_Sm	Eb.Tim.M	Eb.Tim.Mpt1
+BSV11101.L/T	BSV11101	Lecture	Tuesday	16:00	3:00	2-13	Merch.F29	Eb.Bsv.Brown, Andrew	Eb.Cpm.M	Eb.Cpm.Mpt1	Eb.Te.M	Eb.Te.Mpt1	Eb.Tim.M	Eb.Tim.Mpt1
+BSV11102.L/T1	BSV11102	Lecture/Tutorial	Thursday	13:00	3:00	2-13	Merch.F27	Eb.Bsv.Wamuziri, Sam	Eb.Cpm.M	Eb.Cpm.Mpt2
+BSV11106.L/Ti	BSV11106	Lecture/Tutorial	Tuesday	16:00	3:00	2-4	Merch.F28	Eb.Bsv.Sladdin ,Steve	Eb.Fm.M	Eb.Fm.Mpt1	Eb.Pcm.M	Eb.Pcm.Mpt1	Eb.Pmi.Mpt1_Be	Eb.Pmi.Mpt1_Sm	Eb.Pmi.M_Be	Eb.Pmi.M_Sm
+BSV11106.L/Tii	BSV11106	Lecture/Tutorial	Tuesday	16:00	3:00	5-6	Merch.F28	Eb.Bsv.Hughes, Sean	Eb.Fm.M	Eb.Fm.Mpt1	Eb.Pcm.M	Eb.Pcm.Mpt1	Eb.Pmi.Mpt1_Be	Eb.Pmi.Mpt1_Sm	Eb.Pmi.M_Be	Eb.Pmi.M_Sm
+BSV11106.L/Tiii	BSV11106	Lecture/Tutorial	Tuesday	16:00	3:00	7-9	Merch.F28	Eb.Bsv.Strang, Jeremy	Eb.Fm.M	Eb.Fm.Mpt1	Eb.Pcm.M	Eb.Pcm.Mpt1	Eb.Pmi.Mpt1_Be	Eb.Pmi.Mpt1_Sm	Eb.Pmi.M_Be	Eb.Pmi.M_Sm
+BSV11106.L/Tiv	BSV11106	Lecture/Tutorial	Tuesday	16:00	3:00	10-13	Merch.F28	Eb.Bsv.Kamya Bernard	Eb.Fm.M	Eb.Fm.Mpt1	Eb.Pcm.M	Eb.Pcm.Mpt1	Eb.Pmi.Mpt1_Be	Eb.Pmi.Mpt1_Sm	Eb.Pmi.M_Be	Eb.Pmi.M_Sm
+BSV11107.L/T	BSV11107	Lecture/Tutorial	Thursday	13:00	3:00	2-13	Merch.C18	Eb.Bsv.Sladdin ,Steve	Eb.Pmi.Mpt2	Eb.Pmi.M_Be	Eb.Pmi.M_Sm
+BSV11111.L/Ti	BSV11111	Lecture/Tutorial	Thursday	16:00	3:00	2-7	Merch.H6	Bs.Soe.Juleff, Linda	Eb.Fm.M	Eb.Fm.Mpt2	Eb.Pcm.M	Eb.Pcm.Mpt2	Eb.Pmi.Mpt1_Be	Eb.Pmi.M_Be
+BSV11111.L/Tii	BSV11111	Lecture/Tutorial	Thursday	16:00	3:00	8-13	Merch.H6	Eb.Bsv.Sladdin ,Steve	Eb.Fm.M	Eb.Fm.Mpt2	Eb.Pcm.M	Eb.Pcm.Mpt2	Eb.Pmi.Mpt1_Be	Eb.Pmi.M_Be
+BSV11116.L	BSV11116	Lecture	Tuesday	9:00	2:00	2-15 - Assessment We	Merch.B2	Eb.Ctr.Porteous, Jack	Eb.Te.M	Eb.Te.Mpt1
+BSV11116.T	BSV11116	Tutorial	Tuesday	12:00	3:00	2-13	Merch.H17	Eb.Ctr.Porteous, Jack	Eb.Te.M	Eb.Te.Mpt1
+BSV11132.L	BSV11132	Lecture	Thursday	13:00	2:00	2-13	Merch.H17	Eb.Bsv.Mcdonald, Russell,Eb.Bsv.Steel, Chris	Eb.At&Bp.M Bp1	Eb.At&Bp.Mpt1_Choice_Bp1
+BSV11132.T	BSV11132	Tutorial	Thursday	15:00	1:00	2-13	Merch.H17	Eb.Bsv.Mcdonald, Russell,Eb.Bsv.Steel, Chris	Eb.At&Bp.M Bp1	Eb.At&Bp.Mpt1_Choice_Bp1
+BSV11135.L/T	BSV11135	Lecture/Tutorial	Thursday	16:00	3:00	2-13	Merch.C18	Eb.Bsv.Wood, John	Eb.At&Bp.M Bp1	Eb.At&Bp.Mbp2	Eb.At&Bp.Mpt1_Choice_Bp1	Eb.At&Bp.Mpt1_Choice_Bp2
+CLP08100.L Wk9	CLP08100	Lecture	Thursday	10:00	2:00	9	Merch.H9	Ca.Wasson, Sara	Ca.Baj.2a	Ca.English & Film 2a	Ca.English & Film 2b
+CLP09114	CLP09114	Lecture	Tuesday	10:00	2:00	2-15 - Assessment We	M.Church.Studio	Dm.Dsm	Dm.Afss.3
+CSN08101.P1c	CSN08101	Practical	Monday	9:00	2:00	2-13	Merch.C6.co,Merch.C27.co	Co.Csn.Jackson, Jim,Co.Csn.Armitage, Alistair,Co.Csn.Mccarra, Greg,Co.Csn.Greig, Frank,Co.Inf.Soutar, Alastair	Co.Cc2f-A	Co.Cc2f-B
+CSN08101.L1	CSN08101	Lecture	Monday	13:00	1:00	2-13	Merch.A17	Co.Csn.Jackson, Jim,Co.Csn.Armitage, Alistair,Co.Csn.Greig, Frank,Co.Inf.Soutar, Alastair	Co.Cc2f-A	Co.Cc2f-B	Co.Cc2f-C	Co.Cc2f-D	Co.Ccn&S3fa - Direct Entry	Co.Ccn&S3fb - Direct Entry	Co.Cie2f	Eb.Bengcpt.3
+CSN08101.P1b	CSN08101	Practical	Monday	15:00	2:00	2-13	Merch.C6.co,Merch.C27.co	Co.Csn.Jackson, Jim,Co.Csn.Armitage, Alistair,Co.Csn.Greig, Frank,Co.Inf.Soutar, Alastair	Co.Cc2f-C	Co.Cie2f
+CSN08101.T1	CSN08101	Tutorial	Tuesday	13:00	1:00	2-13	Merch.A17	Co.Csn.Jackson, Jim,Co.Csn.Armitage, Alistair,Co.Csn.Greig, Frank,Co.Inf.Soutar, Alastair	Co.Cc2f-A	Co.Cc2f-B	Co.Cc2f-C	Co.Cc2f-D	Co.Ccn&S3fa - Direct Entry	Co.Ccn&S3fb - Direct Entry	Co.Cie2f	Eb.Bengcpt.3
+CSN08101.L2	CSN08101	Lecture	Tuesday	14:00	1:00	2-13	Merch.A17	Co.Csn.Jackson, Jim,Co.Csn.Armitage, Alistair,Co.Csn.Greig, Frank,Co.Inf.Soutar, Alastair	Co.Cc2f-A	Co.Cc2f-B	Co.Cc2f-C	Co.Cc2f-D	Co.Ccn&S3fa - Direct Entry	Co.Ccn&S3fb - Direct Entry	Co.Cie2f	Eb.Bengcpt.3
+CSN08101.P1a	CSN08101	Practical	Friday	10:00	2:00	2-13	Merch.C6.co,Merch.C27.co	Co.Csn.Jackson, Jim,Co.Csn.Armitage, Alistair,Co.Csn.Mccarra, Greg,Co.Csn.Greig, Frank,Co.Inf.Soutar, Alastair	Co.Cc2f-D	Co.Ccn&S3fa - Direct Entry	Co.Ccn&S3fb - Direct Entry	Eb.Bengcpt.3
+CSN09101.P1a	CSN09101	Practical	Monday	14:00	2:00	2-13	M.Kilby.C01,M.Kilby.C02	Co.Csn.Russell, Gordon	Co.Cc4wbl	Co.Ccn&S3f	Co.Ccn&S4wbl	Co.Ccsf3f-A	Co.Ccsf4wbl
+CSN09101.P1b	CSN09101	Practical	Tuesday	15:00	2:00	2-13	M.Kilby.C06,M.Kilby.C10	Co.Csn.Russell, Gordon,Co.Csn.Jackson, Jim	Co.Ccn&S3fa - Direct Entry	Co.Clc4f
+CSN09101.L1	CSN09101	Lecture	Thursday	14:00	2:00	2-13	Merch.G32	Co.Csn.Russell, Gordon	Co.Cc3f-A	Co.Cc4wbl	Co.Ccn&S3f	Co.Ccn&S3fa - Direct Entry	Co.Ccn&S4wbl	Co.Ccsf3f-A	Co.Ccsf3f-B	Co.Ccsf4wbl	Co.Clc4f	Co.Clc5wbl
+CSN09101.P1c	CSN09101	Practical	Friday	15:00	2:00	2-13	M.Kilby.C06,M.Kilby.C08	Co.Csn.Russell, Gordon,Co.Csn.Jackson, Jim	Co.Cc3f-A	Co.Ccsf3f-B	Co.Clc5wbl
+CSN09103.L1	CSN09103	Lecture	Tuesday	9:00	1:00	2-13	Merch.C19	Co.Csn.Greig, Frank	Co.Cm&Ecs3f	Co.Cm&Ecs4fwbl	Eb.Bengcpt.4
+CSN09103.P1	CSN09103	Practical	Tuesday	10:00	2:00	2-13	Merch.C6.co	Co.Csn.Greig, Frank	Co.Cm&Ecs3f	Co.Cm&Ecs4fwbl	Eb.Bengcpt.4
+CSN09103.T1	CSN09103	Tutorial	Tuesday	12:00	1:00	2-13	Merch.C6.co	Co.Csn.Greig, Frank	Co.Cm&Ecs3f	Co.Cm&Ecs4fwbl	Eb.Bengcpt.4
+CSN09104.L1	CSN09104	Lecture	Monday	11:00	2:00	2-13	Merch.G32	Co.Csn.Al-Dubai, Ahmed,Co.Csn.Romdhani, Imed	Co.Ccn&S3f	Co.Ccn&S4wbl	Co.Cm&Ecs3f	Co.Cm&Ecs4fwbl
+CSN09104.P1b	CSN09104	Practical	Tuesday	15:00	2:00	2-13	Merch.C6.co	Co.Csn.Al-Dubai, Ahmed,Co.Csn.Romdhani, Imed	Co.Ccn&S3f	Co.Cm&Ecs3f	Co.Cm&Ecs4fwbl
+CSN09104.P1a	CSN09104	Practical	Wednesday	9:00	2:00	2-13	Merch.C6.co	Co.Csn.Al-Dubai, Ahmed,Co.Csn.Romdhani, Imed	Co.Ccn&S4wbl
+CSN09104.P1c	CSN09104	Practical	Thursday	12:00	2:00	2-13	Merch.C6.co	Co.Csn.Al-Dubai, Ahmed,Co.Csn.Romdhani, Imed	&nbsp;
+CSN09105.U1	CSN09105	Tutorial	Monday	17:00	1:00	2-13	Merch.C27.co	Co.Csn.Buchanan, Bill	Co.Ccn&S4wbl	Co.Ccsf3f-B	Co.Clc3f	Co.Clc4wbl
+CSN09105.L1	CSN09105	Lecture	Tuesday	9:00	2:00	2-13	Merch.F29	Co.Csn.Buchanan, Bill,Co.Csn.Ludwiniak, Robert	Co.Ccn&S3f	Co.Ccn&S3fb - Direct Entry	Co.Ccn&S4wbl	Co.Ccsf3f-A	Co.Ccsf3f-B	Co.Ccsf4wbl	Co.Clc3f	Co.Clc4wbl
+CSN09105.P1a	CSN09105	Practical	Tuesday	11:00	2:00	2-13	Merch.C27.co	Co.Csn.Buchanan, Bill,Co.Csn.Ludwiniak, Robert	Co.Ccn&S3fb - Direct Entry	Co.Ccn&S4wbl	Co.Ccsf3f-B	Co.Clc3f	Co.Clc4wbl
+CSN09105.P1b	CSN09105	Practical	Tuesday	13:00	2:00	2-13	Merch.C27.co	Co.Csn.Buchanan, Bill,Co.Csn.Ludwiniak, Robert	Co.Ccn&S3f	Co.Ccsf3f-A	Co.Ccsf4wbl
+CSN09105.P1c	CSN09105	Practical	Tuesday	15:00	2:00	2-13	Merch.C27.co	Co.Csn.Buchanan, Bill,Co.Csn.Ludwiniak, Robert	&nbsp;
+CSN09105.U2	CSN09105	Tutorial	Friday	12:00	1:00	2-13	Merch.C27.co	Co.Csn.Buchanan, Bill	Co.Ccn&S3f	Co.Ccn&S3fb - Direct Entry	Co.Ccsf3f-A	Co.Ccsf4wbl
+CSN10104.L1	CSN10104	Lecture	Monday	15:00	2:00	2-13	Merch.A55	Co.Csn.Al-Dubai, Ahmed,Co.Csn.Romdhani, Imed	Co.Ccn&S4f	Co.Ccn&S5wbl	Co.Ccsf4f	Co.Ccsf5wbl	Co.Cm&Ecs4f	Co.Cm&Ecs5fwbl
+CSN10104.P1a	CSN10104	Practical	Tuesday	13:00	2:00	2-13	Merch.C6.co	Co.Csn.Al-Dubai, Ahmed,Co.Csn.Romdhani, Imed	Co.Ccn&S4f	Co.Ccn&S5wbl	Co.Cm&Ecs4f	Co.Cm&Ecs5fwbl
+CSN10104.P1b	CSN10104	Practical	Wednesday	11:00	2:00	2-13	Merch.C6.co	Co.Csn.Al-Dubai, Ahmed,Co.Csn.Romdhani, Imed	Co.Ccsf4f	Co.Ccsf5wbl
+CSN11108.L1	CSN11108	Lecture	Wednesday	14:00	1:00	2-13	Merch.F27	Co.Csn.Armitage, Alistair,Co.Inf.Soutar, Alastair,Co.Csn.Romdhani, Imed	Co.Mewd1f	Co.Misd1f	Co.Mstw1f	Co.Mstw1p
+CSN11108.T1	CSN11108	Tutorial	Thursday	10:00	1:00	2-13	Merch.C27.co	Co.Csn.Armitage, Alistair,Co.Inf.Soutar, Alastair,Co.Csn.Romdhani, Imed	Co.Mewd1f	Co.Misd1f	Co.Mstw1f	Co.Mstw1p
+CSN11108.P1a	CSN11108	Practical	Friday	9:00	1:00	2-13	Merch.C6.co	Co.Csn.Armitage, Alistair,Co.Csn.Mccarra, Greg,Co.Inf.Soutar, Alastair,Co.Csn.Romdhani, Imed	Co.Mewd1f	Co.Misd1f	Co.Mstw1f	Co.Mstw1p
+CSN11111.L1	CSN11111	Lecture	Wednesday	9:00	2:00	2-13	Merch.H18	Co.Csn.Macfarlane, Richard,Co.Csn.Ludwiniak, Robert	Co.Man1fa	Co.Man1p	Co.Masdf1f	Co.Masdf1f-Jan
+CSN11111.P1a	CSN11111	Practical	Wednesday	11:00	2:00	2-13	Merch.C28.co	Co.Csn.Macfarlane, Richard,Co.Csn.Ludwiniak, Robert	Co.Man1fa	Co.Man1p	Co.Masdf1f	Co.Masdf1f-Jan
+CSN11111.P1b	CSN11111	Practical	Wednesday	13:00	2:00	2-13	Merch.C28.co	Co.Csn.Macfarlane, Richard,Co.Csn.Ludwiniak, Robert	&nbsp;
+CSN11113.L1	CSN11113	Lecture	Friday	13:00	2:00	2-13	Merch.H11	Co.Csn.Macfarlane, Richard,Co.Csn.Cruickshank, Peter	Co.Masdf1f	Co.Masdf1f-Jan	Co.Mbit1f
+CSN11113.T1	CSN11113	Tutorial	Friday	15:00	2:00	2-13	Merch.C18	Co.Csn.Macfarlane, Richard,Co.Csn.Ludwiniak, Robert,Co.Csn.Cruickshank, Peter	Co.Masdf1f	Co.Masdf1f-Jan	Co.Mbit1f
+CSN11114.L1	CSN11114	Lecture	Wednesday	14:00	2:00	2-13	Merch.G4	Co.Csn.Jackson, Jim	Co.Man1fa	Co.Man1p
+CSN11114.P1	CSN11114	Practical	Wednesday	16:00	2:00	2-13	Merch.C28.co	Co.Csn.Jackson, Jim	Co.Man1fa	Co.Man1p
+CSN11121.P1a	CSN11121	Practical	Thursday	9:00	2:00	2-13	Merch.C28.co	Co.Csn.Russell, Gordon,Co.Csn.Ludwiniak, Robert	Co.Man1fa	Co.Man2p	Co.Masdf1f	Co.Masdf1f-Jan
+CSN11121.L1	CSN11121	Lecture	Thursday	11:00	2:00	2-13	Merch.H6	Co.Csn.Russell, Gordon,Co.Csn.Ludwiniak, Robert	Co.Man1fa	Co.Man2p	Co.Masdf1f	Co.Masdf1f-Jan
+CTR07102.T1	CTR07102	Tutorial	Monday	17:00	1:00	2-13	Merch.G2	Eb.Ctr.Taylor, Mark	Eb.Ce.1	Eb.Cte.1	Eb.Ctem.1	Eb.Ctime.1	Eb.Eng.C.1c
+CTR07102.L1	CTR07102	Lecture	Thursday	16:00	2:00	2-13	Merch.G2	Eb.Ctr.Taylor, Mark	Eb.Ce.1	Eb.Cte.1	Eb.Ctem.1	Eb.Ctime.1	Eb.Eng.C.1c
+CTR07103.L1	CTR07103	Lecture	Wednesday	10:00	2:00	2-13	Merch.A55	Eb.Ctr.Leitch, Kenny	Eb.Ce.1	Eb.Cte.1	Eb.Ctem.1	Eb.Ctime.1	Eb.Eng.C.1c
+CTR07103.L2	CTR07103	Lecture	Thursday	11:00	2:00	2-5, 7-13	Merch.H10	Eb.Ctr.Leitch, Kenny	Eb.Ce.1	Eb.Cte.1	Eb.Ctem.1	Eb.Ctime.1	Eb.Eng.C.1c
+CTR07103.P	CTR07103	Practical	Thursday	11:00	2:00	6	Merch.E32.be	Eb.Ctr.Leitch, Kenny	Eb.Ce.1	Eb.Cte.1	Eb.Ctem.1	Eb.Ctime.1	Eb.Eng.C.1c
+CTR07103.Ti	CTR07103	Tutorial	Friday	12:00	3:00	2, 4-5, 7-13	Merch.H9	Eb.Ctr.Leitch, Kenny	Eb.Ce.1	Eb.Cte.1	Eb.Ctem.1	Eb.Ctime.1	Eb.Eng.C.1c
+CTR07103.Tiia	CTR07103	Tutorial	Friday	12:00	3:00	3, 6	Merch.E32.be	Eb.Ctr.Leitch, Kenny	Eb.Ce.1	Eb.Cte.1	Eb.Ctem.1	Eb.Ctime.1	Eb.Eng.C.1c
+CTR07103.Tiib	CTR07103	Tutorial	Friday	15:00	3:00	6	Merch.E32.be	Eb.Ctr.Leitch, Kenny	Eb.Ce.1	Eb.Cte.1	Eb.Ctem.1	Eb.Ctime.1	Eb.Eng.C.1c
+CTR08100.T	CTR08100	Tutorial	Monday	14:00	2:00	2-13	Merch.B2	Eb.Mec.Kubie, Jorge	Eb.Ce.2	Eb.Ce/Cte.2dummyoption	Eb.Cte.2	Eb.Ctem.2	Eb.Ctime.2
+CTR08100.L	CTR08100	Lecture	Friday	9:00	3:00	2-13	Merch.G2	Eb.Mec.Kubie, Jorge	Eb.Ce.2	Eb.Ce/Cte.2dummyoption	Eb.Cte.2	Eb.Ctem.2	Eb.Ctime.2
+CTR08101.L	CTR08101	Lecture	Monday	9:00	4:00	2-13	Merch.H18	Eb.Ctr.Zhang, Johnson	Eb.Ce.2	Eb.Ce/Cte.2dummyoption	Eb.Cte.2	Eb.Ctem.2	Eb.Ctime.2
+CTR08101.P	CTR08101	Tutorial	Monday	16:00	2:00	2-13	Merch.A19m.be	Eb.Ctr.Zhang, Johnson	Eb.Ce.2	Eb.Ce/Cte.2dummyoption	Eb.Cte.2	Eb.Ctem.2	Eb.Ctime.2
+CTR08101.T	CTR08101	Tutorial	Thursday	17:00	2:00	2-13	Merch.H18	Eb.Ctr.Zhang, Johnson	Eb.Ce.2	Eb.Ce/Cte.2dummyoption	Eb.Cte.2	Eb.Ctem.2	Eb.Ctime.2
+CTR09100.L1	CTR09100	Lecture	Monday	9:00	2:00	2-5	Merch.E32.be	Eb.Ctr.Hunter, Ron	Eb.Ce.3dm&Als	Eb.Ce.3dm&Re	Eb.Ce.3dm&Std1	Eb.Ce.3dm&Te	Eb.Ce.4pt	Eb.Cte.3dm&Moc	Eb.Cte.3dm&Re	Eb.Cte.3dm&Tnm	Eb.Ctem.3dm&Moc	Eb.Ctem.3dm&Re	Eb.Ctem.3dm&Tnm	Eb.Ctime.3dm
+CTR09100.L2b	CTR09100	Lecture	Tuesday	9:00	2:00	2-5	Merch.E32.be	Eb.Ctr.Hunter, Ron	Eb.Ce.3dm&Als	Eb.Ce.3dm&Re	Eb.Ce.3dm&Std1	Eb.Ce.4pt	Eb.Cte.3dm&Moc	Eb.Cte.3dm&Re	Eb.Cte.3dm&Tnm	Eb.Ctem.3dm&Moc	Eb.Ctem.3dm&Re	Eb.Ctem.3dm&Tnm	Eb.Ctime.3dm
+CTR09100.L2a	CTR09100	Lecture	Thursday	9:00	2:00	2-5	Merch.E32.be	Eb.Ctr.Hunter, Ron	Eb.Ce.3dm&Als	Eb.Ce.3dm&Re	Eb.Ce.3dm&Std1	Eb.Ce.3dm&Te	Eb.Ce.4pt	Eb.Cte.3dm&Moc	Eb.Cte.3dm&Re	Eb.Cte.3dm&Tnm	Eb.Ctem.3dm&Moc	Eb.Ctem.3dm&Re	Eb.Ctem.3dm&Tnm	Eb.Ctime.3dm
+CTR09101.Ti	CTR09101	Tutorial	Tuesday	14:00	2:00	2, 5-13	Merch.F28	Eb.Ctr.Leitch, Kenny	Eb.Ce.3moc&Als	Eb.Ce.3moc&Re	Eb.Ce.3moc&Std1	Eb.Ce.3moc&Te	Eb.Cte.3dm&Moc	Eb.Cte.3ei&Moc	Eb.Cte.3te&Moc	Eb.Ctem.3dm&Moc	Eb.Ctem.3ei&Moc	Eb.Ctem.3te&Moc	Eb.Ctime.3moc
+CTR09101.Tii	CTR09101	Tutorial	Tuesday	14:00	2:00	3-4	Merch.E32.be	Eb.Ctr.Leitch, Kenny	Eb.Ce.3moc&Als	Eb.Ce.3moc&Re	Eb.Ce.3moc&Std1	Eb.Ce.3moc&Te	Eb.Cte.3dm&Moc	Eb.Cte.3ei&Moc	Eb.Cte.3te&Moc	Eb.Ctem.3dm&Moc	Eb.Ctem.3ei&Moc	Eb.Ctem.3te&Moc	Eb.Ctime.3moc
+CTR09101.L	CTR09101	Lecture	Wednesday	16:00	2:00	2-13	Merch.F28	Eb.Ctr.Leitch, Kenny	Eb.Ce.3moc&Als	Eb.Ce.3moc&Re	Eb.Ce.3moc&Std1	Eb.Ce.3moc&Te	Eb.Cte.3dm&Moc	Eb.Cte.3ei&Moc	Eb.Cte.3te&Moc	Eb.Ctem.3dm&Moc	Eb.Ctem.3ei&Moc	Eb.Ctem.3te&Moc	Eb.Ctime.3moc
+CTR09103.Li	CTR09103	Lecture	Monday	11:00	2:00	2-13	Merch.G27	Eb.Ctr.Zhang, Ben	Eb.Ce.3dm&Std1	Eb.Ce.3moc&Std1	Eb.Ctime.3als	Eb.Ctime.3dm	Eb.Ctime.3moc	Eb.Ctime.3re	Eb.Ctime.3te
+CTR09103.P	CTR09103	Tutorial	Wednesday	14:00	2:00	9	Merch.A25.be	Eb.Ctr.Zhang, Ben	Eb.Ce.3dm&Std1	Eb.Ce.3moc&Std1	Eb.Ctime.3als	Eb.Ctime.3dm	Eb.Ctime.3moc	Eb.Ctime.3re	Eb.Ctime.3te
+CTR09103.Lii	CTR09103	Lecture	Thursday	16:00	2:00	2-13	Merch.G28	Eb.Ctr.Zhang, Ben	Eb.Ce.3dm&Std1	Eb.Ce.3moc&Std1	Eb.Ctime.3als	Eb.Ctime.3dm	Eb.Ctime.3moc	Eb.Ctime.3re	Eb.Ctime.3te
+CTR09107.L2	CTR09107	Lecture	Tuesday	11:00	2:00	2-13	Merch.G2	Eb.Ctr.Breckinridge, John	Eb.Ce.3dm&Als	Eb.Ce.3moc&Als	Eb.Ce.5pt	Eb.Ctime.3als
+CTR09107.L1	CTR09107	Lecture	Wednesday	9:00	2:00	2-13	Merch.F29	Eb.Ctr.Breckinridge, John	Eb.Ce.3dm&Als	Eb.Ce.3moc&Als	Eb.Ctime.3als
+CTR09108.L2i	CTR09108	Tutorial	Thursday	13:00	3:00	2-7	Merch.H5	Eb.Ctr.Mckenzie, William	Eb.Ce.3dm&Als	Eb.Ce.3dm&Re	Eb.Ce.3dm&Std1	Eb.Ce.3dm&Te	Eb.Ce.3moc&Als	Eb.Ce.3moc&Re	Eb.Ce.3moc&Std1	Eb.Ce.3moc&Te	Eb.Ce.4pt	Eb.Ctime.3als	Eb.Ctime.3dm	Eb.Ctime.3moc	Eb.Ctime.3re	Eb.Ctime.3te
+CTR09108.L2ii	CTR09108	Tutorial	Thursday	13:00	3:00	8-13	Merch.H5	Eb.Ctr.Aguiar,Susana	Eb.Ce.3dm&Als	Eb.Ce.3dm&Re	Eb.Ce.3dm&Std1	Eb.Ce.3dm&Te	Eb.Ce.3moc&Als	Eb.Ce.3moc&Re	Eb.Ce.3moc&Std1	Eb.Ce.3moc&Te	Eb.Ce.4pt	Eb.Ctime.3als	Eb.Ctime.3dm	Eb.Ctime.3moc	Eb.Ctime.3re	Eb.Ctime.3te
+CTR09108.L1i	CTR09108	Lecture	Friday	9:00	3:00	2-7	Merch.G32	Eb.Ctr.Mckenzie, William	Eb.Ce.3dm&Als	Eb.Ce.3dm&Re	Eb.Ce.3dm&Std1	Eb.Ce.3dm&Te	Eb.Ce.3moc&Als	Eb.Ce.3moc&Re	Eb.Ce.3moc&Std1	Eb.Ce.3moc&Te	Eb.Ce.4pt	Eb.Ctime.3als	Eb.Ctime.3dm	Eb.Ctime.3moc	Eb.Ctime.3re	Eb.Ctime.3te
+CTR09108.L1ii	CTR09108	Lecture	Friday	9:00	2:00	8-13	Merch.G32	Eb.Ctr.Aguiar,Susana	Eb.Ce.3dm&Als	Eb.Ce.3dm&Re	Eb.Ce.3dm&Std1	Eb.Ce.3dm&Te	Eb.Ce.3moc&Als	Eb.Ce.3moc&Re	Eb.Ce.3moc&Std1	Eb.Ce.3moc&Te	Eb.Ce.4pt	Eb.Ctime.3als	Eb.Ctime.3dm	Eb.Ctime.3moc	Eb.Ctime.3re	Eb.Ctime.3te
+CTR09115.Liiia	CTR09115	Lecture	Tuesday	9:00	3:00	5	Merch.G29	Eb.Ctr.Baird Alf	Eb.Tm.3re	Eb.Tm.3tnm
+CTR09115.Liiib	CTR09115	Lecture	Tuesday	13:00	3:00	5	Merch.A55	Eb.Ctr.Baird Alf	&nbsp;
+CTR09115.Liia	CTR09115	Lecture	Wednesday	9:00	2:00	5	Merch.C18	Eb.Ctr.Wilmsmeier, Gordon	Eb.Tm.3re	Eb.Tm.3tnm
+CTR09115.Liib	CTR09115	Lecture	Wednesday	13:00	3:00	5	Merch.H17	Eb.Ctr.Wilmsmeier, Gordon	Eb.Tm.3tnm
+CTR09115.Li	CTR09115	Lecture	Friday	15:00	3:00	2-9	Merch.H17	Eb.Ctr.Cowie, Jonathan	Eb.Tm.3re	Eb.Tm.3tnm
+CTR09119.P	CTR09119	Practical	Tuesday	12:00	2:00	2-13	Merch.E32.be	Eb.Ctr.Hunter, Jim	Eb.Ce.3dm&Re	Eb.Ce.3moc&Re	Eb.Cte.3dm&Re	Eb.Cte.3ei&Re	Eb.Cte.3te&Re	Eb.Ctem.3dm&Re	Eb.Ctem.3ei&Re	Eb.Ctem.3te&Re	Eb.Ctime.3re	Eb.Tm.3re
+CTR09119.Ti	CTR09119	Tutorial	Tuesday	17:00	2:00	2	Merch.G32	Eb.Ctr.Hunter, Jim	Eb.Ce.3dm&Re	Eb.Ce.3moc&Re	Eb.Ce.5pt	Eb.Cte.3dm&Re	Eb.Cte.3ei&Re	Eb.Cte.3te&Re	Eb.Ctem.3dm&Re	Eb.Ctem.3ei&Re	Eb.Ctem.3te&Re	Eb.Ctime.3re	Eb.Tm.3re
+CTR09119.Tiii	CTR09119	Tutorial	Tuesday	17:00	2:00	4	Merch.G32	Eb.Ctr.Hunter, Jim	Eb.Ce.3dm&Re	Eb.Ce.3moc&Re	Eb.Cte.3dm&Re	Eb.Cte.3ei&Re	Eb.Cte.3te&Re	Eb.Ctem.3dm&Re	Eb.Ctem.3ei&Re	Eb.Ctem.3te&Re	Eb.Ctime.3re	Eb.Tm.3re
+CTR09119.L	CTR09119	Lecture	Wednesday	12:00	2:00	2-13	Merch.H18	Eb.Ctr.Hunter, Jim	Eb.Ce.3dm&Re	Eb.Ce.3moc&Re	Eb.Ce.5pt	Eb.Cte.3dm&Re	Eb.Cte.3ei&Re	Eb.Cte.3te&Re	Eb.Ctem.3dm&Re	Eb.Ctem.3ei&Re	Eb.Ctem.3te&Re	Eb.Ctime.3re	Eb.Tm.3re
+CTR09119.Tii	CTR09119	Tutorial	Friday	13:00	2:00	3, 5-13	Merch.B2	Eb.Ctr.Hunter, Jim	Eb.Ce.3dm&Re	Eb.Ce.3moc&Re	Eb.Ce.5pt	Eb.Cte.3dm&Re	Eb.Cte.3ei&Re	Eb.Cte.3te&Re	Eb.Ctem.3dm&Re	Eb.Ctem.3ei&Re	Eb.Ctem.3te&Re	Eb.Ctime.3re	Eb.Tm.3re
+CTR09123.T1ii	CTR09123	Lecture	Tuesday	18:00	1:00	6-9	Merch.H11	Eb.Ctr.Barreto, Daniel	Eb.Cte.3ei&Moc	Eb.Cte.3ei&Re	Eb.Cte.3ei&Tnm	Eb.Ctem.3ei&Moc	Eb.Ctem.3ei&Re	Eb.Ctem.3ei&Tnm
+CTR09123.T1iii	CTR09123	Lecture	Tuesday	18:00	1:00	10-13	Merch.H11	Eb.Ctr.Taylor, Mark	Eb.Cte.3ei&Moc	Eb.Cte.3ei&Re	Eb.Cte.3ei&Tnm	Eb.Ctem.3ei&Moc	Eb.Ctem.3ei&Re	Eb.Ctem.3ei&Tnm
+CTR09123.L1i	CTR09123	Lecture	Friday	15:00	2:00	2-5	Merch.H11	Eb.Ctr.Zhang, Johnson	Eb.Cte.3ei&Moc	Eb.Cte.3ei&Re	Eb.Cte.3ei&Tnm	Eb.Ctem.3ei&Moc	Eb.Ctem.3ei&Re	Eb.Ctem.3ei&Tnm
+CTR09123.L1ii	CTR09123	Lecture	Friday	15:00	2:00	6-9	Merch.H11	Eb.Ctr.Barreto, Daniel	Eb.Cte.3ei&Moc	Eb.Cte.3ei&Re	Eb.Cte.3ei&Tnm	Eb.Ctem.3ei&Moc	Eb.Ctem.3ei&Re	Eb.Ctem.3ei&Tnm
+CTR09123.L1iii	CTR09123	Lecture	Friday	15:00	2:00	10-13	Merch.H11	Eb.Ctr.Taylor, Mark	Eb.Cte.3ei&Moc	Eb.Cte.3ei&Re	Eb.Cte.3ei&Tnm	Eb.Ctem.3ei&Moc	Eb.Ctem.3ei&Re	Eb.Ctem.3ei&Tnm
+CTR09123.T1i	CTR09123	Tutorial	Friday	17:00	2:00	2-5	Merch.E32.be	Eb.Ctr.Zhang, Johnson	Eb.Cte.3ei&Moc	Eb.Cte.3ei&Re	Eb.Cte.3ei&Tnm	Eb.Ctem.3ei&Moc	Eb.Ctem.3ei&Re	Eb.Ctem.3ei&Tnm
+CTR09125.P1i	CTR09125	Practical	Wednesday	16:00	2:00	2-13	Merch.E32.be	Eb.Ctr.Stewart, Kathryn	Eb.Cte.3dm&Tnm	Eb.Cte.3ei&Tnm	Eb.Cte.3te&Tnm	Eb.Ctem.3dm&Tnm	Eb.Ctem.3ei&Tnm	Eb.Ctem.3te&Tnm	Eb.Tm.3tnm
+CTR09125.L1	CTR09125	Lecture	Friday	9:00	4:00	2-13	Merch.H10	Eb.Ctr.Stewart, Kathryn,Eb.Ctr.Saleh, Wafaa	Eb.Cte.3dm&Tnm	Eb.Cte.3ei&Tnm	Eb.Cte.3te&Tnm	Eb.Ctem.3dm&Tnm	Eb.Ctem.3ei&Tnm	Eb.Ctem.3te&Tnm	Eb.Tm.3tnm
+CTR09126.L2i	CTR09126	Lecture	Tuesday	9:00	2:00	2-3, 6-13	Merch.A55	Eb.Ctr.Maciver, Andrew	Eb.Ce.3dm&Te	Eb.Ce.3moc&Te	Eb.Ce.5pt	Eb.Cte.3te&Moc	Eb.Cte.3te&Re	Eb.Cte.3te&Tnm	Eb.Ctem.3te&Moc	Eb.Ctem.3te&Re	Eb.Ctem.3te&Tnm	Eb.Ctime.3te
+CTR09126.L1	CTR09126	Lecture	Wednesday	9:00	2:00	2-13	Merch.H9	Eb.Ctr.Maciver, Andrew	Eb.Ce.3dm&Te	Eb.Ce.3moc&Te	Eb.Ce.5pt	Eb.Cte.3te&Moc	Eb.Cte.3te&Re	Eb.Cte.3te&Tnm	Eb.Ctem.3te&Moc	Eb.Ctem.3te&Re	Eb.Ctem.3te&Tnm	Eb.Ctime.3te
+CTR09126.L2ii	CTR09126	Lecture	Wednesday	14:00	2:00	4-5	Merch.E32.be	Eb.Ctr.Maciver, Andrew	Eb.Ce.3dm&Te	Eb.Ce.3moc&Te	Eb.Ce.5pt	Eb.Cte.3te&Moc	Eb.Cte.3te&Re	Eb.Cte.3te&Tnm	Eb.Ctem.3te&Moc	Eb.Ctem.3te&Re	Eb.Ctem.3te&Tnm	Eb.Ctime.3te
+CTR09129.L2	CTR09129	Lecture	Monday	11:00	2:00	2-13	Merch.H5	Eb.Ctr.Barreto, Daniel	Eb.Cte.3dm&Moc	Eb.Cte.3dm&Re	Eb.Cte.3dm&Tnm	Eb.Cte.3ei&Moc	Eb.Cte.3ei&Re	Eb.Cte.3ei&Tnm	Eb.Cte.3te&Moc	Eb.Cte.3te&Re	Eb.Cte.3te&Tnm	Eb.Ctem.3dm&Moc	Eb.Ctem.3dm&Re	Eb.Ctem.3dm&Tnm	Eb.Ctem.3ei&Moc	Eb.Ctem.3ei&Re	Eb.Ctem.3ei&Tnm	Eb.Ctem.3te&Moc	Eb.Ctem.3te&Re	Eb.Ctem.3te&Tnm
+CTR09129.P	CTR09129	Practical	Monday	14:00	3:00	3-8	Merch.A19.be	Eb.Ctr.Fairfield, Charlie	Eb.Cte.3dm&Re	Eb.Cte.3ei&Re	Eb.Cte.3te&Re
+CTR09129.L1	CTR09129	Lecture	Thursday	16:00	2:00	2-13	Merch.H5	Eb.Ctr.Barreto, Daniel	Eb.Cte.3dm&Moc	Eb.Cte.3dm&Re	Eb.Cte.3dm&Tnm	Eb.Cte.3ei&Moc	Eb.Cte.3ei&Re	Eb.Cte.3ei&Tnm	Eb.Cte.3te&Moc	Eb.Cte.3te&Re	Eb.Cte.3te&Tnm	Eb.Ctem.3dm&Moc	Eb.Ctem.3dm&Re	Eb.Ctem.3dm&Tnm	Eb.Ctem.3ei&Moc	Eb.Ctem.3ei&Re	Eb.Ctem.3ei&Tnm	Eb.Ctem.3te&Moc	Eb.Ctem.3te&Re	Eb.Ctem.3te&Tnm
+CTR10101.L	CTR10101	Lecture	Monday	13:00	2:00	2-13	Merch.G32	Eb.Ctr.Taylor, Mark	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt	Eb.Ctem.4wphe
+CTR10101.P	CTR10101	Practical	Tuesday	9:00	2:00	8-9	Merch.E32.be	Eb.Ctr.Taylor, Mark	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt	Eb.Ctem.4wphe
+CTR10101.T	CTR10101	Tutorial	Wednesday	9:00	2:00	2-13	Merch.G2	Eb.Ctr.Taylor, Mark	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt	Eb.Ctem.4wphe
+CTR10106.L1ii	CTR10106	Lecture	Monday	14:00	4:00	7-11	Merch.F29	Eb.Ctr.Zhang, Ben	Eb.Ce.4	Eb.Ce.5pt	Eb.Ctime.4
+CTR10106.L1iii	CTR10106	Lecture	Monday	14:00	4:00	12-13	Merch.F29	Eb.Ctr.Aguiar,Susana	Eb.Ce.4	Eb.Ce.5pt	Eb.Ctime.4
+CTR10106.L1ia	CTR10106	Lecture	Thursday	9:00	2:00	2-6	Merch.G32	Eb.Ctr.Mckenzie, William	Eb.Ce.4	Eb.Ce.5pt	Eb.Ctime.4
+CTR10106.L1ib	CTR10106	Lecture	Friday	15:00	2:00	2-6	Merch.H18	Eb.Ctr.Mckenzie, William	Eb.Ce.4	Eb.Ce.5pt	Eb.Ctime.4
+CTR10107.L2	CTR10107	Lecture	Monday	15:00	2:00	2-13	Merch.H5	Eb.Bsv.Strang, Jeremy	Eb.Cte.4b3&Elpc	Eb.Ctem.4gam	Eb.Ctem.4pt	Eb.Ctem.4rs	Eb.Ctem.4wphe
+CTR10107.L1	CTR10107	Lecture	Tuesday	11:00	2:00	2-13	Merch.F29	Eb.Bsv.Kamya Bernard	Eb.Cte.4b3&Elpc	Eb.Ctem.4gam	Eb.Ctem.4pt	Eb.Ctem.4rs	Eb.Ctem.4wphe
+CTR10121.Pii	CTR10121	Practical	Monday	9:00	2:00	10-13	Merch.E32.be	Eb.Ctr.Mcdougall, John	Eb.Cte.4b3&Gam	Eb.Ctem.4gam
+CTR10121.Lii	CTR10121	Seminar	Tuesday	14:00	2:00	2, 4, 6, 8	Merch.H11	Eb.Ctr.Mcdougall, John	Eb.Cte.4b3&Gam	Eb.Ctem.4gam
+CTR10121.Li	CTR10121	Seminar	Thursday	16:00	2:00	2-9	Merch.H11	Eb.Ctr.Mcdougall, John	Eb.Cte.4b3&Gam	Eb.Ctem.4gam
+CTR10121.Pi	CTR10121	Seminar	Friday	15:00	2:00	3, 5, 7, 9-13	Merch.E32.be	Eb.Ctr.Mcdougall, John	Eb.Cte.4b3&Gam	Eb.Ctem.4gam
+CTR10124.L1i	CTR10124	Lecture	Thursday	12:00	4:00	2-4	Merch.B2	Eb.Ctr.Saleh, Wafaa	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt
+CTR10124.L1ii	CTR10124	Lecture	Thursday	12:00	4:00	5	Merch.E32.be	Eb.Ctr.Saleh, Wafaa	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt
+CTR10124.L1iii	CTR10124	Lecture	Thursday	12:00	2:00	6-9	Merch.H9	Eb.Ctr.Fonzone,Achille	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt
+CTR10124.L1iv	CTR10124	Lecture	Thursday	12:00	4:00	10	Merch.E32.be	Eb.Ctr.Fonzone,Achille	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt
+CTR10124.L1v	CTR10124	Lecture	Thursday	12:00	2:00	11-12	Merch.B2	Eb.Ctr.Stewart, Kathryn	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt
+CTR10124.L1vi	CTR10124	Lecture	Thursday	12:00	4:00	13	Merch.B2	Eb.Ctr.Stewart, Kathryn,Eb.Ctr.Saleh, Wafaa,Eb.Ctr.Fonzone,Achille	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt
+CTR10124.P1iii	CTR10124	Practical	Thursday	14:00	2:00	6-9	Merch.E32.be	Eb.Ctr.Fonzone,Achille	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt
+CTR10124.P1v	CTR10124	Practical	Thursday	14:00	1:00	11-12	Merch.E32.be	Eb.Ctr.Stewart, Kathryn	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt
+CTR10124.Tv	CTR10124	Tutorial	Thursday	15:00	1:00	11-12	Merch.B2	Eb.Ctr.Stewart, Kathryn	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt
+CTR10125.L1i	CTR10125	Lecture	Wednesday	12:00	2:00	2-6	Merch.F27	Eb.Ctr.Mcdougall, John	Eb.Ce.4	Eb.Ce.6pt	Eb.Ctime.4
+CTR10125.L1ii	CTR10125	Lecture	Wednesday	12:00	2:00	7-10	Merch.F27	Eb.Ctr.Fairfield, Charlie	Eb.Ce.4	Eb.Ce.6pt	Eb.Ctime.4
+CTR10125.L1iii	CTR10125	Lecture	Wednesday	12:00	2:00	11-12	Merch.F27	Eb.Ctr.Cairns, Patrice	Eb.Ce.4	Eb.Ce.6pt	Eb.Ctime.4
+CTR10125.L2i	CTR10125	Lecture	Friday	13:00	2:00	2-6	Merch.F27	Eb.Ctr.Mcdougall, John	Eb.Ce.4	Eb.Ce.6pt	Eb.Ctime.4
+CTR10125.L2ii	CTR10125	Lecture	Friday	13:00	2:00	7-10	Merch.F27	Eb.Ctr.Fairfield, Charlie	Eb.Ce.4	Eb.Ce.6pt	Eb.Ctime.4
+CTR10125.L2iii	CTR10125	Lecture	Friday	13:00	2:00	11-12	Merch.F27	Eb.Ctr.Cairns, Patrice	Eb.Ce.4	Eb.Ce.6pt	Eb.Ctime.4
+CTR10126.L1i	CTR10126	Lecture	Thursday	9:00	2:00	2-6	Merch.H5	Eb.Ctr.Mcdougall, John	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt	Eb.Ctem.4gam	Eb.Ctem.4pt	Eb.Ctem.4rs	Eb.Ctem.4wphe
+CTR10126.L1ii	CTR10126	Lecture	Thursday	9:00	2:00	7-10	Merch.H5	Eb.Ctr.Fairfield, Charlie	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt	Eb.Ctem.4gam	Eb.Ctem.4pt	Eb.Ctem.4rs	Eb.Ctem.4wphe
+CTR10126.L1iii	CTR10126	Lecture	Thursday	9:00	2:00	11-13	Merch.H5	Eb.Ctr.Cairns, Patrice	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt	Eb.Ctem.4gam	Eb.Ctem.4pt	Eb.Ctem.4rs	Eb.Ctem.4wphe
+CTR10126.L2i	CTR10126	Lecture	Friday	10:00	2:00	2-6	Merch.A17	Eb.Ctr.Mcdougall, John	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt	Eb.Ctem.4gam	Eb.Ctem.4pt	Eb.Ctem.4rs	Eb.Ctem.4wphe
+CTR10126.L2ii	CTR10126	Lecture	Friday	10:00	2:00	7-10	Merch.A17	Eb.Ctr.Fairfield, Charlie	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt	Eb.Ctem.4gam	Eb.Ctem.4pt	Eb.Ctem.4rs	Eb.Ctem.4wphe
+CTR10126.L2iii	CTR10126	Lecture	Friday	10:00	2:00	11-13	Merch.A17	Eb.Ctr.Cairns, Patrice	Eb.Cte.4b3&Elpc	Eb.Cte.4b3&Gam	Eb.Cte.4b3&Pt	Eb.Ctem.4gam	Eb.Ctem.4pt	Eb.Ctem.4rs	Eb.Ctem.4wphe
+CTR11107.L	CTR11107	Lecture	Tuesday	9:00	3:00	2-13	Merch.F28	Eb.Ctr.Zhang, Johnson	Eb.Ase.M	Eb.Ase.Mpt1
+CTR11107.P	CTR11107	Practical	Tuesday	18:00	1:00	4-10	Merch.E32.be	Eb.Ctr.Zhang, Johnson	Eb.Ase.M	Eb.Ase.Mpt1
+CTR11115.L1	CTR11115	Lecture	Wednesday	10:00	3:00	2-3, 5, 7-13	Merch.H10	Eb.Ctr.Stewart, Kathryn,Eb.Ctr.Saleh, Wafaa	Eb.Tpe.M	Eb.Tpe.Mpt2
+CTR11115.P1	CTR11115	Practical	Wednesday	10:00	3:00	4, 6	Merch.E32.be	Eb.Ctr.Stewart, Kathryn,Eb.Ctr.Saleh, Wafaa	Eb.Tpe.M	Eb.Tpe.Mpt2
+CTR11118.P	CTR11118	Lecture	Tuesday	12:00	2:00	4, 6	Merch.A25.be	Eb.Ctr.Aguiar,Susana	Eb.Ase.M	Eb.Ase.Mpt1
+CTR11118.Li	CTR11118	Lecture	Tuesday	15:00	3:00	2-7	Merch.B2	Eb.Ctr.Aguiar,Susana	Eb.Ase.M	Eb.Ase.Mpt1
+CTR11118.Lii	CTR11118	Lecture	Tuesday	15:00	3:00	8-13	Merch.B2	Eb.Ctr.Zhang, Ben	Eb.Ase.M	Eb.Ase.Mpt1
+CTR11120.L1i	CTR11120	Lecture	Thursday	14:00	3:00	2-3, 5-10, 13	Merch.H15	Eb.Ctr.Maciver, Andrew	Eb.Tpe.M	Eb.Tpe.Mpt1
+CTR11120.P1i	CTR11120	Lecture	Thursday	14:00	3:00	4	Merch.E32.be	Eb.Ctr.Maciver, Andrew	Eb.Tpe.M	Eb.Tpe.Mpt1
+CTR11120.L1ii	CTR11120	Lecture	Thursday	14:00	1:00	11-12	Merch.H15	Eb.Ctr.Maciver, Andrew	Eb.Tpe.M	Eb.Tpe.Mpt1
+CTR11120.P1ii	CTR11120	Lecture	Thursday	15:00	2:00	11-12	Merch.E32.be	Eb.Ctr.Maciver, Andrew	Eb.Tpe.M	Eb.Tpe.Mpt1
+CTR11507.L	CTR11507	Lecture	Wednesday	9:00	2:00	2-6, 9, 13	Merch.H15	Eb.Ctr.Hunter, Jim	Eb.Ctem.5fe	Eb.Ctem.5tec	Eb.Ctem.5tp
+CTR11507.Li	CTR11507	Lecture	Thursday	9:00	4:00	13	Merch.G28	Eb.Ctr.Hunter, Jim	Eb.Ctem.5fe	Eb.Ctem.5tec	Eb.Ctem.5tp
+CTR11508.L	CTR11508	Lecture/Tutorial	Monday	11:00	2:00	2-4, 10-12	Merch.C18	Eb.Ctr.Fairfield, Charlie	Eb.Ctem.5fe	Eb.Ctem.5tp
+DES07106	DES07106	Practical	Thursday	10:00	6:00	2-15 - Assessment We	Merch.B25.dm	&nbsp;	Dm.Ia.1
+DES07112	DES07112	Practical	Friday	10:00	6:00	2-13	Merch.B23.dm	Dm.Rf	Dm.Pd.1
+DES07112b	DES07112b	Practical	Friday	12:00	4:00	2-15 - Assessment We	Merch.C84.dm	Dm.Br	Eb.Pd.1
+DES07116	DES07116	Practical	Thursday	10:00	6:00	2-15 - Assessment We	Merch.B22.dm	Dm.Mmacl	Dm.Gd.1
+DES07118	DES07118	Practical	Monday	10:00	6:00	2-15 - Assessment We	Merch.C84.dm	Dm.Tl	Dm.Gd.1	Dm.Ia.1	Dm.Pd.1
+DES07119	DES07119	Practical	Tuesday	10:00	6:00	2-15 - Assessment We	Merch.A33PC.dm	Dm.Wt	Dm.Gd.1	Dm.Ia.1	Dm.Pd.1
+DES07119b	DES07119b	Practical	Wednesday	10:00	6:00	2-15 - Assessment We	Merch.A33PC.dm	Dm.Wt	Dm.Gd.1	Dm.Ia.1	Dm.Pd.1
+DES08101	DES08101	Lecture	Wednesday	9:00	5:00	2-15 - Assessment We	Merch.G32	Dm.Mt	Dm.Gd.2	Dm.Ia.2	Dm.Pd.2
+DES08101b	DES08101	Seminar	Wednesday	10:00	6:00	2-13	Merch.G27	&nbsp;	&nbsp;
+DES08102	DES08102	Practical	Friday	10:00	6:00	2-15 - Assessment We	Merch.A33 Mac.dm	Dm.Imacd	Dm.Gd.2
+DES08103	DES08103	Practical	Tuesday	10:00	6:00	2-15 - Assessment We	Merch.B22.dm	Dm.Mmacl	Dm.Gd.2
+DES08107	DES08107	Practical	Friday	10:00	6:00	2-15 - Assessment We	Merch.B25.dm	Dm.Sgo	Dm.Ia.2
+DES08110	DES08110	Practical	Tuesday	10:00	6:00	2-15 - Assessment We	Merch.B23.dm	Dm.Il	Dm.Pd.2
+DES08117	DES08117	Practical	Monday	10:00	6:00	2-13	Merch.B23.dm,Merch.B25.dm	Dm.Wt	Dm.Ia.2	Dm.Pd.2
+DES09100	DES09100	Lecture	Friday	11:00	2:00	2-15 - Assessment We	Merch.A55	Dm.Wt	Dm.Dd3	Dm.Gd.3	Dm.Ia.3	Dm.Pd.3
+DES09105	DES09105	Practical	Tuesday	10:00	6:00	2-15 - Assessment We	Merch.A33 Mac.dm	Dm.Imacd	Dm.Gd.3
+DES09108	DES09108	Practical	Tuesday	10:00	6:00	2-15 - Assessment We	Merch.B25.dm	Dm.Mi	Dm.Ia.3
+DES09110	DES09110	Practical	Wednesday	10:00	6:00	2-15 - Assessment We	Merch.B25.dm	Dm.Sgo	Dm.Ia.3
+DES09114	DES09114	Practical	Thursday	10:00	6:00	2-15 - Assessment We	Merch.B23.dm	Dm.Rf	Dm.Pd.3
+DES09119	DES09119	Practical	Thursday	10:00	6:00	2-15 - Assessment We	Merch.B31.dm	Dm.Ew	Dm.Dd3
+DES09124	DES09124	Practical	Wednesday	10:00	6:00	2-15 - Assessment We	Merch.B23.dm	&nbsp;	Dm.Pd.3
+DES09126	DES09126	Practical	Monday	10:00	7:00	2-15 - Assessment We	Merch.B22.dm	&nbsp;	Dm.Gd.3
+DES10102	DES10102	Practical	Tuesday	10:00	6:00	2-13	Merch.B20b.dm,Merch.B20a.dm	&nbsp;	Dm.Dd4	Dm.Gd.4	Dm.Ia.4	Dm.Pd.4
+DES11100	DES11100	Practical	Friday	10:00	6:00	2-15 - Assessment We	Merch.B24.dm	&nbsp;	Dm.Iad.Mdes	Dm.Id.Mdes
+DES11101	DES11101	Practical	Thursday	10:00	6:00	2-15 - Assessment We	Merch.B24.dm	Dm.Mt,Dm.Kj	Dm.Arch.Mdes	Dm.Iad.Mdes	Dm.Id.Mdes
+DES11106	DES11106	Practical	Wednesday	10:00	6:00	2-15 - Assessment We	Merch.B24.dm	Dm.Ch	Dm.Iad.Mdes
+DES11111	DES11111	Practical	Friday	10:00	6:00	2-15 - Assessment We	Merch.B24b.dm	&nbsp;	Dm.Arch.Mdes
+DES11112	DES11115	Practical	Thursday	9:00	2:00	2-3, 5-13	Merch.G4	&nbsp;	Dm.Ie.Ma
+DES11118	DES11118	Practical	Monday	10:00	6:00	2-15 - Assessment We	Merch.B24.dm	Dm.Mi	Dm.Arch.Mdes
+DES11119	DES11119	Seminar	Wednesday	10:00	6:00	2-15 - Assessment We	Merch.B24b.dm	Dm.Jg	Dm.Id.Mdes
+ELE07100.P2ei	ELE07100	Practical	Tuesday	9:00	1:00	2-13	Merch.B55-1.se	Eb.Ele.Wan, Chuen	Eb.Bengee.2pt	Eb.Bengele.2pt
+ELE07100.P2eii	ELE07100	Practical	Tuesday	10:00	1:00	2-13	Merch.B55-1.se	Eb.Mec.Bowman, Colin	Eb.Bengewm.2pt	Eb.Bengme.2pt
+ELE07100.L	ELE07100	Shared Lecture	Tuesday	11:00	1:00	2-13	Merch.H5	Eb.Ele.Binnie, David,Eb.Mec.Mcwhinnie, Jim	Eb.Bengee.1	Eb.Bengee.2pt	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengele.2pt	Eb.Bengewm.1	Eb.Bengewm.2pt	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengme.2pt	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Eng.C.1e	Eb.Mengmem.1
+ELE07100.P2b	ELE07100	Practical	Wednesday	9:00	2:00	2-13	Merch.B55-2	Eb.Mec.Bowman, Colin	Eb.Bengme.1b	Eb.Mengmem.1
+ELE07100.T1	ELE07100	Shared Tutorial	Wednesday	12:00	1:00	3, 5, 7, 9, 11, 13	Merch.F29	Eb.Mec.Mcwhinnie, Jim	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Eng.C.1e	Eb.Mengmem.1
+ELE07100.P2d	ELE07100	Practical	Wednesday	15:00	2:00	2-13	Merch.B55-1.se	Eb.Ele.Wan, Chuen	Eb.Bengee.1	Eb.Bengele.1	Eb.Bengmt.1
+ELE07100.P1c	ELE07100	Practical	Wednesday	15:00	2:00	2-13	Merch.C30.se	Eb.Ele.Binnie, David	Eb.Eng.C.1e
+ELE07100.P2c	ELE07100	Practical	Thursday	15:00	2:00	2-13	Merch.B55-2	Eb.Mec.Bowman, Colin	Eb.Bengegy.1	Eb.Eng.C.1e
+ELE07100.P1b	ELE07100	Practical	Thursday	16:00	2:00	2-15 - Assessment We	Merch.C30.se	Eb.Ele.Wan, Chuen	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Mengmem.1
+ELE07100.P1d	ELE07100	Practical	Friday	11:00	2:00	2-13	Merch.C30.se	Eb.Ele.Wan, Chuen	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Eng.C.1e
+ELE07100.P2a	ELE07100	Practical	Friday	13:00	2:00	2-13	Merch.B55-1.se	Eb.Mec.Bowman, Colin	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengpe.1
+ELE07100.P1a	ELE07100	Practical	Friday	15:00	2:00	2-13	Merch.C30.se	Eb.Ele.Binnie, David	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengpe.1
+ELE07101.L1	ELE07101	Lecture	Monday	9:00	3:00	2	Merch.A55	Eb.Mec.Shearer, Neil	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Eng.C.1e	Eb.Eng.C.1p	Eb.Mengmem.1	Eb.Pd.1
+ELE07101.Pd2i	ELE07101	Practical	Monday	9:00	3:00	3-5	Merch.A16.se	Eb.Mec.Boswell, Colin	Eb.Bengegy.1	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Mengmem.1
+ELE07101.Pc2i	ELE07101	Practical	Monday	9:00	3:00	3-5	Merch.D17.se	Eb.Mec.Shackleton, John	Eb.Bengpe.1	Eb.Pd.1
+ELE07101.Pa2i	ELE07101	Practical	Monday	9:00	3:00	3-5	Merch.C16.se	Eb.Ele.Hoy, Jay,Eb.Ele.Sharp, John	Eb.Bengee.1	Eb.Bengele.1	Eb.Eng.C.1e	Eb.Eng.C.1p
+ELE07101.Pd2ii	ELE07101	Practical	Monday	9:00	3:00	6-8	Merch.B68-2.se,Merch.B68-1.se	Eb.Mec.Shackleton, John	Eb.Bengegy.1	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Mengmem.1
+ELE07101.Pc2ii	ELE07101	Practical	Monday	9:00	3:00	6-8	Merch.C16.se	Eb.Ele.Hoy, Jay,Eb.Ele.Sharp, John	Eb.Bengpe.1	Eb.Pd.1
+ELE07101.Pa2ii	ELE07101	Practical	Monday	9:00	3:00	6-8	Merch.A16.se	Eb.Mec.Boswell, Colin	Eb.Bengee.1	Eb.Bengele.1	Eb.Eng.C.1e	Eb.Eng.C.1p
+ELE07101.Pd2iii	ELE07101	Practical	Monday	9:00	3:00	9-12	Merch.C16.se	Eb.Ele.Hoy, Jay,Eb.Ele.Sharp, John	Eb.Bengegy.1	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Mengmem.1
+ELE07101.Pc2iii	ELE07101	Practical	Monday	9:00	3:00	9-12	Merch.A16.se	Eb.Mec.Boswell, Colin	Eb.Bengpe.1	Eb.Pd.1
+ELE07101.Pa2iii	ELE07101	Practical	Monday	9:00	3:00	9-12	Merch.B68-2.se,Merch.B68-1.se	Eb.Mec.Shackleton, John	Eb.Bengee.1	Eb.Bengele.1	Eb.Eng.C.1e	Eb.Eng.C.1p
+ELE07101.Pe1	ELE07101	Practical	Monday	15:00	3:00	2-12	Merch.C16.se	Eb.Ele.Sharp, John	Eb.Bengee.1pt	Eb.Bengele.1pt	Eb.Bengewm.1pt	Eb.Bengme.1pt
+ELE07101.L2	ELE07101	Lecture	Tuesday	14:00	3:00	2	Merch.A55	Eb.Mec.Shearer, Neil	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Eng.C.1e	Eb.Eng.C.1p	Eb.Mengmem.1	Eb.Pd.1
+ELE07101.Pb1ii	ELE07101	Practical	Tuesday	15:00	3:00	6-8	Merch.A16.se	Eb.Mec.Shackleton, John	Eb.Bengewm.1	Eb.Bengme.1a
+ELE07101.Pb1iii	ELE07101	Practical	Tuesday	15:00	3:00	9-12	Merch.C16.se	Eb.Ele.Hoy, Jay,Eb.Ele.Sharp, John	Eb.Bengewm.1	Eb.Bengme.1a
+ELE07101.Pa1i	ELE07101	Practical	Wednesday	9:00	3:00	3-5	Merch.C16.se	Eb.Ele.Hoy, Jay,Eb.Ele.Sharp, John	Eb.Bengee.1	Eb.Bengele.1	Eb.Eng.C.1e	Eb.Eng.C.1p
+ELE07101.Pb1i	ELE07101	Practical	Wednesday	9:00	3:00	3-5	Merch.A16.se	Eb.Mec.Boswell, Colin	Eb.Bengewm.1	Eb.Bengme.1a
+ELE07101.Pa1ii	ELE07101	Practical	Wednesday	9:00	3:00	6-8	Merch.A16.se	Eb.Mec.Boswell, Colin	Eb.Bengee.1	Eb.Bengele.1	Eb.Eng.C.1e	Eb.Eng.C.1p
+ELE07101.Pa1iii	ELE07101	Practical	Wednesday	9:00	3:00	9-12	Merch.A16.se	Eb.Mec.Shackleton, John	Eb.Bengee.1	Eb.Bengele.1	Eb.Eng.C.1e	Eb.Eng.C.1p
+ELE07101.Pb2i	ELE07101	Practical	Thursday	9:00	3:00	3-5	Merch.A16.se	Eb.Mec.Boswell, Colin	Eb.Bengewm.1	Eb.Bengme.1a
+ELE07101.Pb2ii	ELE07101	Practical	Thursday	9:00	3:00	6-8	Merch.B68-1.se	Eb.Mec.Shackleton, John	Eb.Bengewm.1	Eb.Bengme.1a
+ELE07101.Pb2iii	ELE07101	Practical	Thursday	9:00	3:00	9-12	Merch.A16.se	Eb.Ele.Hoy, Jay	Eb.Bengewm.1	Eb.Bengme.1a
+ELE07101.Pd1i	ELE07101	Practical	Thursday	12:00	3:00	3-5	Merch.A16.se	Eb.Mec.Boswell, Colin	Eb.Bengegy.1	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Mengmem.1
+ELE07101.Pc1i	ELE07101	Practical	Thursday	12:00	3:00	3-5	Merch.B68-1.se	Eb.Mec.Shackleton, John	Eb.Bengpe.1	Eb.Pd.1
+ELE07101.Pc1ii	ELE07101	Practical	Thursday	12:00	3:00	6-8	Merch.C16.se	Eb.Ele.Hoy, Jay	Eb.Bengpe.1	Eb.Pd.1
+ELE07101.Pc1iii	ELE07101	Practical	Thursday	12:00	3:00	9-12	Merch.A16.se	Eb.Mec.Boswell, Colin	Eb.Bengpe.1	Eb.Pd.1
+ELE07101.Pd1ii	ELE07101	Practical	Friday	15:00	3:00	6-8	Merch.A16.se	Eb.Mec.Shackleton, John	Eb.Bengegy.1	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Mengmem.1
+ELE07101.Pd1iii	ELE07101	Practical	Friday	15:00	3:00	9-12	Merch.C16.se	Eb.Ele.Hoy, Jay,Eb.Ele.Sharp, John	Eb.Bengegy.1	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Mengmem.1
+ELE07102.L/Tc1i	ELE07102	Lecture/Tutorial	Monday	9:00	2:00	2-13	Merch.H17	Eb.Ele.Mcgill, Colin	Eb.Bengee.1pt	Eb.Bengele.1pt	Eb.Bengewm.1pt	Eb.Bengme.1pt
+ELE07102.L/Tc2ii	ELE07102	Lecture/Tutorial	Monday	9:00	2:00	14 - Assessment Week	Merch.H10	Eb.Ele.Mcgill, Colin	Eb.Bengee.1pt	Eb.Bengele.1pt	Eb.Bengewm.1pt	Eb.Bengme.1pt
+ELE07102.L/Ta2i	ELE07102	Lecture/Tutorial	Monday	12:00	2:00	2-13	Merch.B2	Eb.Ele.Durkacz, Kate	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Eng.C.1c	Eb.Eng.C.1e	Eb.Eng.C.1p	Eb.Mengmem.1
+ELE07102.L/Tc2i	ELE07102	Lecture/Tutorial	Monday	13:00	2:00	2-13	Merch.A55	Eb.Ele.Mcgill, Colin	Eb.Bengee.1pt	Eb.Bengele.1pt	Eb.Bengewm.1pt	Eb.Bengme.1pt
+ELE07102.L/Tb1i	ELE07102	Lecture/Tutorial	Monday	14:00	2:00	2-13	Merch.H11	Eb.Ele.Durkacz, Kate	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Ce.1	Eb.Ctime.1	Eb.Eng.C.1c	Eb.Eng.C.1e	Eb.Eng.C.1p	Eb.Mengmem.1	Eb.Pd.1
+ELE07102.L/Tc1ii	ELE07102	Lecture/Tutorial	Monday	14:00	2:00	14 - Assessment Week	Merch.H10	Eb.Ele.Mcgill, Colin	Eb.Bengee.1pt	Eb.Bengele.1pt	Eb.Bengewm.1pt	Eb.Bengme.1pt
+ELE07102.L/Tb3i	ELE07102	Lecture/Tutorial	Tuesday	9:00	2:00	2-13	Merch.G32	Eb.Ele.Durkacz, Kate	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Ce.1	Eb.Ctime.1	Eb.Eng.C.1c	Eb.Eng.C.1e	Eb.Eng.C.1p	Eb.Mengmem.1	Eb.Pd.1
+ELE07102.L/Ta1i	ELE07102	Lecture/Tutorial	Tuesday	12:00	2:00	2-13	Merch.G32	Eb.Ele.Durkacz, Kate	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Eng.C.1c	Eb.Eng.C.1e	Eb.Eng.C.1p	Eb.Mengmem.1
+ELE07102.L/Tb2i	ELE07102	Lecture/Tutorial	Wednesday	13:00	2:00	2-13	Merch.H11	Eb.Ele.Durkacz, Kate	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Ce.1	Eb.Ctime.1	Eb.Eng.C.1c	Eb.Eng.C.1e	Eb.Eng.C.1p	Eb.Mengmem.1	Eb.Pd.1
+ELE07102.L/Ta3i	ELE07102	Lecture/Tutorial	Friday	9:00	2:00	2-13	Merch.B2	Eb.Ele.Durkacz, Kate	Eb.Bengee.1	Eb.Bengegy.1	Eb.Bengele.1	Eb.Bengewm.1	Eb.Bengme.1a	Eb.Bengme.1b	Eb.Bengmt.1	Eb.Bengpe.1	Eb.Eng.C.1c	Eb.Eng.C.1e	Eb.Eng.C.1p	Eb.Mengmem.1
+ELE07103.L/T2i	ELE07103	Lecture/Tutorial	Monday	12:00	2:00	2-13	Merch.H9	Eb.Ele.Robin, Bill	Eb.Cte.1	Eb.Ctem.1	Eb.Pd.1
+ELE07103.L/T1ii	ELE07103	Lecture/Tutorial	Monday	12:00	2:00	14 - Assessment Week	Merch.H10	Eb.Ele.Robin, Bill	Eb.Cte.1	Eb.Ctem.1	Eb.Pd.1
+ELE07103.L/T1i	ELE07103	Lecture/Tutorial	Tuesday	12:00	2:00	2-13	Merch.H9	Eb.Ele.Robin, Bill	Eb.Cte.1	Eb.Ctem.1	Eb.Pd.1
+ELE07103.L/T2ii	ELE07103	Lecture/Tutorial	Wednesday	9:00	2:00	14 - Assessment Week	Merch.H10	Eb.Ele.Robin, Bill	Eb.Cte.1	Eb.Ctem.1	Eb.Pd.1
+ELE07103.L/T3i	ELE07103	Lecture/Tutorial	Friday	9:00	2:00	2-13	Merch.H9	Eb.Ele.Robin, Bill	Eb.Cte.1	Eb.Ctem.1	Eb.Pd.1
+ELE07103.L/T3ii	ELE07103	Lecture/Tutorial	Friday	13:00	2:00	14 - Assessment Week	Merch.H10	Eb.Ele.Robin, Bill	Eb.Cte.1	Eb.Ctem.1
+ELE08105.P2	ELE08105	Practical	Thursday	12:00	2:00	2-13	Merch.B68-2.se	Eb.Ele.Edgar, Alan	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08105 (B)	Eb.Pde/St.2options Ele08105
+ELE08105.P1	ELE08105	Practical	Thursday	14:00	2:00	2-13	Merch.B68-2.se	Eb.Ele.Edgar, Alan	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08105 (B)	Eb.Pde/St.2options Ele08105
+ELE08106.P	ELE08106	Lecture	Thursday	9:00	3:00	2-12	Merch.B68-2.se	Eb.Ele.Edgar, Alan	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08106 (B)	Eb.Pde/St.2options Ele08106
+ELE08106.L	ELE08106	Lecture	Friday	12:00	1:00	2-13	Merch.G31	Eb.Ele.Edgar, Alan	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08106 (B)	Eb.Pde/St.2options Ele08106
+ELE08107.P2	ELE08107	Practical	Monday	17:00	2:00	2-12	Merch.B60.se	Eb.Ele.Renton, Malcolm	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08107 (B)	Eb.Pde/St.2options Ele08107
+ELE08107.P1	ELE08107	Practical	Thursday	9:00	2:00	2-12	Merch.B60.se	Eb.Ele.Renton, Malcolm	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08107 (B)	Eb.Pde/St.2options Ele08107
+ELE08108.L3b	ELE08108	Lecture	Wednesday	9:00	2:00	2-13	Merch.F28	Eb.Ele.Mcgill, Colin	Eb.Beng.2options Ele08108 (A)	Eb.Beng.2options Ele08108 (B)	Eb.Pde/St.2options Ele08108
+ELE08108.L3a	ELE08108	Lecture	Wednesday	9:00	2:00	2-13	Merch.B2	Eb.Ele.Durkacz, Kate	Eb.Bengcpt.3	Eb.Ce.2	Eb.Ce/Cte.2dummyoption	Eb.Cte.2	Eb.Ctem.2	Eb.Ctime.2
+ELE08108.L1b	ELE08108	Lecture	Thursday	12:00	2:00	2-13	Merch.G2	Eb.Ele.Mcgill, Colin	Eb.Beng.2options Ele08108 (A)	Eb.Beng.2options Ele08108 (B)	Eb.Pde/St.2options Ele08108
+ELE08108.L1a	ELE08108	Lecture	Thursday	12:00	2:00	2-13	Merch.G32	Eb.Ele.Durkacz, Kate	Eb.Bengcpt.3	Eb.Ce.2	Eb.Ce/Cte.2dummyoption	Eb.Cte.2	Eb.Ctem.2	Eb.Ctime.2
+ELE08108.L2b	ELE08108	Lecture	Friday	14:00	2:00	2-13	Merch.G2	Eb.Ele.Mcgill, Colin	Eb.Beng.2options Ele08108 (A)	Eb.Beng.2options Ele08108 (B)	Eb.Pde/St.2options Ele08108
+ELE08108.L2a	ELE08108	Lecture	Friday	14:00	2:00	2-13	Merch.G32	Eb.Ele.Durkacz, Kate	Eb.Bengcpt.3	Eb.Ce.2	Eb.Ce/Cte.2dummyoption	Eb.Cte.2	Eb.Ctem.2	Eb.Ctime.2
+ELE09100.L	ELE09100	Shared Lecture	Thursday	14:00	2:00	2-13	Merch.H14	Eb.Ele.Gupta, Naren,Eb.Ele.Henderson, Douglas	Eb.Bengee.3	Eb.Bengee.4pt	Eb.Bengele.3	Eb.Bengele.4pt
+ELE09100.Ti	ELE09100	Shared Tutorial	Thursday	16:00	2:00	2-10	Merch.H17	Eb.Ele.Gupta, Naren,Eb.Ele.Henderson, Douglas	Eb.Bengee.3	Eb.Bengee.4pt	Eb.Bengele.3	Eb.Bengele.4pt
+ELE09100.Tii	ELE09100	Shared Tutorial	Thursday	16:00	2:00	11-13	Merch.H14,Merch.B60.se	Eb.Ele.Gupta, Naren,Eb.Ele.Henderson, Douglas	Eb.Bengee.3	Eb.Bengee.4pt	Eb.Bengele.3	Eb.Bengele.4pt
+ELE09101.L	ELE09101	Lecture	Monday	13:00	2:00	2-13	Merch.C30.se	Eb.Ele.Sharif, Mo	Eb.Bengcom.3
+ELE09101.P	ELE09101	Tutorial/Practical	Wednesday	11:00	2:00	2-13	Merch.C30.se	Eb.Ele.Sharif, Mo	Eb.Bengcom.3
+ELE09102.P2i	ELE09102	Practical	Monday	17:00	2:00	5-6	Merch.C30.se	Eb.Ele.Binnie, David	Eb.Bengcom.3	Eb.Bengcpt.3	Eb.Bengele.3
+ELE09102.L2	ELE09102	Lecture	Tuesday	9:00	2:00	2-13	Merch.C18	Eb.Ele.Binnie, David	Eb.Bengcom.3	Eb.Bengcpt.3	Eb.Bengele.3	Eb.Bengele.5pt
+ELE09102.L1	ELE09102	Lecture	Tuesday	11:00	2:00	2-13	Merch.C18	Eb.Ele.Hoy, Jay	Eb.Bengcom.3	Eb.Bengcpt.3	Eb.Bengele.3	Eb.Bengele.5pt
+ELE09102.P1i	ELE09102	Practical	Tuesday	16:00	2:00	5-6	Merch.C30.se	Eb.Ele.Binnie, David	Eb.Bengcom.3	Eb.Bengcpt.3	Eb.Bengele.3
+ELE09102.P1ii	ELE09102	Practical	Tuesday	16:00	2:00	7-8	Merch.C16.se	Eb.Ele.Hoy, Jay	Eb.Bengcom.3	Eb.Bengcpt.3	Eb.Bengele.3
+ELE09102.P2ii	ELE09102	Practical	Wednesday	13:00	2:00	7-8	Merch.A16.se	Eb.Ele.Hoy, Jay	Eb.Bengcom.3	Eb.Bengcpt.3	Eb.Bengele.3
+ELE09103.L 1	ELE09103	Shared Lecture	Tuesday	9:00	2:00	2-13	Merch.H14	Eb.Ele.Henderson, Douglas,Eb.Ele.Renton, Malcolm	Eb.Bengee.3	Eb.Bengee.5pt
+ELE09103.P1	ELE09103	Shared Lab	Tuesday	11:00	2:00	2-13	Merch.B60.se	Eb.Ele.Henderson, Douglas,Eb.Ele.Renton, Malcolm	Eb.Bengee.3	Eb.Bengee.5pt
+ELE09103.P2	ELE09103	Shared Lab	Tuesday	11:00	2:00	3-13	Merch.C30.se	&nbsp;	&nbsp;
+ELE09103.DS2	ELE09103	Directed Study	Tuesday	13:00	1:00	2-13	Merch.B60.se	&nbsp;	Eb.Bengee.5pt
+ELE09103.DS1	ELE09103	Directed Study	Thursday	11:00	1:00	2-13	Merch.B60.se	&nbsp;	Eb.Bengee.3
+ELE09108.P1	ELE09108	Practical	Thursday	15:00	1:00	2-13	Merch.A16.se	Eb.Ele.Binnie, David	&nbsp;
+ELE10100.L1	ELE10100	Lecture/Tutorial	Monday	14:00	2:00	2-13	Merch.G31	Eb.Ele.Hoy, Jay	Eb.Bengcom.4	Eb.Bengcom.6pt	Eb.Bengcpt.4	Eb.Bengele.4	Eb.Bengele.6pt
+ELE10100.L2	ELE10100	Lecture/Tutorial	Monday	16:00	2:00	2-13	Merch.H17	Eb.Bsv.Van Rietvelde, Maurice	Eb.Bengcom.4	Eb.Bengcom.6pt	Eb.Bengcpt.4	Eb.Bengele.4	Eb.Bengele.6pt
+ELE10101.L	ELE10101	Lecture	Monday	11:00	2:00	2-13	Merch.H7	Eb.Ele.Gupta, Naren	Eb.Bengee.4	Eb.Bengee.6pt
+ELE10101.T	ELE10101	Tutorial	Monday	15:00	2:00	2-13	Merch.G4	Eb.Ele.Gupta, Naren	Eb.Bengee.4	Eb.Bengee.6pt
+ELE10102.L	ELE10102	Lecture	Tuesday	14:00	2:00	2-13	Merch.H14	Eb.Ele.Henderson, Douglas,Eb.Ele.Renton, Malcolm	Eb.Bengee.4	Eb.Bengee.5pt	Eb.Bengele.4	Eb.Bengele.5pt
+ELE10102.P	ELE10102	Tutorial/Practical	Tuesday	16:00	2:00	2-13	Merch.B60.se	Eb.Ele.Henderson, Douglas,Eb.Ele.Renton, Malcolm	Eb.Bengee.4	Eb.Bengee.5pt	Eb.Bengele.4	Eb.Bengele.5pt
+ELE10108.L1	ELE10108	Seminar	Friday	9:00	2:00	2-13	Merch.H5	Eb.Mec.Askey, Martin	Eb.Bengcom.4	Eb.Bengcpt.4	Eb.Bengee.4	Eb.Bengegy.4	Eb.Bengele.4	Eb.Bengme.4	Eb.Bengmem.4	Eb.Bengmt.4	Eb.Bengpe.4	Eb.Pd.4	Eb.St.4
+ELE11101.P1	ELE11101	Tutorial/Practical	Monday	9:00	3:00	5-7	Merch.C30.se	Eb.Ele.Sharif, Mo	Eb.Ds.M	Eb.E&Eeng.M	Eb.Ec.Ma	Eb.Ec.Mb
+ELE11101.P2	ELE11101	Tutorial/Practical	Thursday	9:00	2:00	2-13	Merch.C30.se	Eb.Ele.Sharif, Mo	Eb.Ds.M	Eb.Ds.Mpt2	Eb.E&Eeng.M	Eb.E&Eeng.Mpt2	Eb.Ec.Ma	Eb.Ec.Mb
+ELE11101.L	ELE11101	Lecture/Tutorial	Thursday	15:00	3:00	2-13	Merch.H10	Eb.Ele.Sharif, Mo	Eb.Ds.M	Eb.Ds.Mpt2	Eb.E&Eeng.M	Eb.E&Eeng.Mpt2	Eb.Ec.Ma	Eb.Ec.Mb
+ELE11102.L1	ELE11102	Lecture	Tuesday	16:00	2:00	2-13	Merch.H11	Eb.Ele.Wan, Chuen	Eb.Ec.Ma	Eb.Ec.Mb
+ELE11102.T1	ELE11102	Tutorial	Friday	9:00	2:00	2-13	Merch.G31	Eb.Ele.Wan, Chuen	Eb.Ec.Ma	Eb.Ec.Mb
+ELE11103.P1	ELE11103	Practical	Monday	12:00	1:00	2, 4, 6, 8, 10, 12	Merch.D18.se	Eb.Ele.Sharp, John	Eb.Ec.Ma	Eb.Ec.Mb	Eb.Engr.M
+ELE11103.P2	ELE11103	Practical	Monday	12:00	1:00	3, 5, 7, 9, 11, 13	Merch.C30.se	Eb.Ele.Sharp, John	Eb.Ec.Ma	Eb.Ec.Mb	Eb.Engr.M
+ELE11103.L1	ELE11103	Lecture/Tutorial	Wednesday	12:00	2:00	2-13	Merch.F28	Eb.Ele.Sharp, John	Eb.Ec.Ma	Eb.Ec.Mb	Eb.Engr.M
+ELE11103.T1	ELE11103	Tutorial	Friday	14:00	1:00	2-13	Merch.H10	Eb.Ele.Sharp, John	Eb.Ec.Ma	Eb.Ec.Mb	Eb.Engr.M
+ELE11108.L	ELE11108	Lecture	Monday	15:00	3:00	2-13	Merch.F28	Eb.Ele.Edgar, Alan	Eb.A&Ce.M	Eb.A&Ce.Mpt1	Eb.Ds.M	Eb.Ds.Mpt1	Eb.E&Eeng.M	Eb.E&Eeng.Mpt1	Eb.Mech.M	Eb.Mech.Mpt2
+ELE11108.P	ELE11108	Practical	Tuesday	16:00	2:00	2-13	Merch.B69.se	Eb.Ele.Edgar, Alan	Eb.A&Ce.M	Eb.A&Ce.Mpt1	Eb.Ds.M	Eb.Ds.Mpt1	Eb.E&Eeng.M	Eb.E&Eeng.Mpt1	Eb.Mech.M	Eb.Mech.Mpt2
+ELE11112.T	ELE11112	Tutorial	Monday	15:00	2:00	2-13	Merch.B60.se	Eb.Ele.Wan, Chuen	Eb.Cae.M
+ELE11112.L	ELE11112	Lecture	Friday	13:00	2:00	2-13	Merch.B68-1.se	Eb.Ele.Edgar, Alan	Eb.Cae.M
+IMD07101.L1	IMD07101	Lecture	Monday	9:00	2:00	2-13	Merch.A17	Co.Inf.Davison, Brian	Co.Cc1f-A	Co.Cc1f-B	Co.Cc1f-C	Co.Cc1f-D	Co.Cc1f-E	Co.Cc1f-F	Co.Cdm&Id1f-A	Co.Cdm&Id1f-B	Co.Cwt1f	Co.Ibis1f
+IMD07101.P1a	IMD07101	Practical	Monday	11:00	1:00	2-13	M.Kilby.C01,M.Kilby.C06	Co.Imd.Rutter, Malcolm	Co.Cdm&Id1f-A	Co.Cdm&Id1f-B	Co.Cwt1f
+IMD07101.T1bc	IMD07101	Tutorial	Monday	15:00	2:00	2-13	Merch.G32	Co.Imd.Mcewan, Tom,Co.Inf.Davison, Brian	Co.Cc1f-B	Co.Cdm&Id1f-B
+IMD07101.P1c	IMD07101	Practical	Monday	16:00	1:00	2-13	M.Kilby.C01,M.Kilby.C06	Co.Imd.Rutter, Malcolm	Co.Cc1f-C	Co.Cc1f-F	Co.Ibis1f
+IMD07101.P1b	IMD07101	Practical	Wednesday	10:00	1:00	2-13	M.Kilby.C01,M.Kilby.C06	Co.Imd.Rutter, Malcolm	Co.Cc1f-A	Co.Cc1f-B
+IMD07101.P1d	IMD07101	Practical	Thursday	11:00	1:00	2-13	M.Kilby.C01,M.Kilby.C06	Co.Imd.Rutter, Malcolm	Co.Cc1f-D	Co.Cc1f-E
+IMD07101.T1df	IMD07101	Tutorial	Thursday	14:00	2:00	2-13	Merch.H9	Co.Imd.Mcewan, Tom,Co.Inf.Davison, Brian	Co.Cc1f-D	Co.Ibis1f
+IMD07101.T1	IMD07101	Tutorial	Friday	11:00	2:00	2-13	Merch.H18	Co.Imd.Mcewan, Tom,Co.Inf.Davison, Brian	Co.Cc1f-C	Co.Cc1f-F	Co.Cdm&Id1f-A	Co.Cwt1f
+IMD07101.T1ae	IMD07101	Tutorial	Friday	15:00	2:00	2-13	Merch.H9	Co.Imd.Mcewan, Tom,Co.Inf.Davison, Brian	Co.Cc1f-A	Co.Cc1f-E
+IMD07102.L1	IMD07102	Lecture	Thursday	9:00	2:00	2-13	Merch.F27	Co.Imd.Flint, Tom,Co.Imd.Rudman, Hannah	Co.Cdm&Id1f-A	Co.Cdm&Id1f-B
+IMD07102.T1	IMD07102	Tutorial	Thursday	11:00	1:00	2-13	Merch.A55	Co.Imd.Flint, Tom,Co.Imd.Rudman, Hannah	Co.Cdm&Id1f-A	Co.Cdm&Id1f-B
+IMD07102.P1a	IMD07102	Practical	Thursday	13:00	1:00	2-13	Merch.D35.co	Co.Imd.Flint, Tom,Co.Imd.Rudman, Hannah	Co.Cdm&Id1f-A
+IMD07102.P1b	IMD07102	Practical	Thursday	14:00	1:00	2-13	Merch.D35.co	Co.Imd.Flint, Tom,Co.Imd.Rudman, Hannah	Co.Cdm&Id1f-B
+IMD07103.P1c	IMD07103	Practical	Tuesday	9:00	2:00	2-13	Merch.D36.co	Co.Imd.Morrison, John	Bs.Ug.Mktg W Dm.1
+IMD07103.P1a	IMD07103	Practical	Tuesday	11:00	2:00	2-13	Merch.D36.co	Co.Imd.Morrison, John	Co.Cdm&Id1f-A	Co.Cwt1f
+IMD07103.P1b	IMD07103	Practical	Tuesday	13:00	2:00	2-13	Merch.D36.co	Co.Imd.Morrison, John	Co.Cdm&Id1f-B
+IMD07103.L1	IMD07103	Lecture	Tuesday	15:00	2:00	2-13	Merch.G32	Co.Imd.Morrison, John	Co.Cdm&Id1f-A	Co.Cdm&Id1f-B	Co.Cwt1f
+IMD08101.T1b	IMD08101	Tutorial	Tuesday	13:00	2:00	2-13	Merch.G2	Co.Imd.Turner, Susan,Co.Imd.Rutter, Malcolm	Bs.Ug.Mktg W Dm.2	Co.Cdm&Id2f-C
+IMD08101.T1a	IMD08101	Tutorial	Wednesday	15:00	2:00	2-13	Merch.G2	Co.Imd.Turner, Susan,Co.Imd.Rutter, Malcolm	Co.Cdm&Id2f-B
+IMD08101.T1c	IMD08101	Tutorial	Friday	15:00	2:00	2-13	Merch.F28	Co.Imd.Turner, Susan,Co.Imd.Rutter, Malcolm	Co.Cdm&Id2f-A	Co.Ibis2f
+IMD08102.L1	IMD08102	Lecture	Monday	9:00	2:00	2-13	Merch.F27	Co.Imd.Mcgregor, Iain	Co.Cdm&Id2f-A	Co.Cdm&Id2f-B	Co.Cdm&Id2f-C	Co.Cimd3f-A	Co.Cimd3f-B
+IMD08102.P1a	IMD08102	Practical	Monday	11:00	2:00	2-13	Merch.D35.co	Co.Imd.Mcgregor, Iain	Co.Cdm&Id2f-A
+IMD08102.P1b	IMD08102	Practical	Monday	13:00	2:00	2-13	Merch.D35.co	Co.Imd.Mcgregor, Iain	Co.Cdm&Id2f-B
+IMD08102.P1c	IMD08102	Practical	Monday	15:00	2:00	2-13	Merch.D35.co	Co.Imd.Mcgregor, Iain	Co.Cdm&Id2f-C	Co.Cimd3f-A	Co.Cimd3f-B
+IMD08104.P1c	IMD08104	Practical	Wednesday	9:00	2:00	2-13	Merch.D36.co	Co.Imd.Morrison, John	Co.Cdm&Id2f-B
+IMD08104.P1a	IMD08104	Practical	Wednesday	11:00	2:00	2-13	Merch.D36.co	Co.Imd.Morrison, John	Co.Cdm&Id2f-A
+IMD08104.L1	IMD08104	Lecture	Wednesday	13:00	2:00	2-13	Merch.F29	Co.Imd.Morrison, John	Co.Cdm&Id2f-A	Co.Cdm&Id2f-B	Co.Cdm&Id2f-C
+IMD08104.P1b	IMD08104	Practical	Wednesday	15:00	2:00	2-13	Merch.D36.co	Co.Imd.Morrison, John	Co.Cdm&Id2f-C
+IMD08113.L2	IMD08113	Lecture	Monday	13:00	1:00	2-13	Merch.H5	Co.Imd.Rutter, Malcolm	Co.Cwt2f	Co.Ibis2f
+IMD08113.T1a	IMD08113	Tutorial	Monday	15:00	1:00	2-13	Merch.G29	Co.Imd.Rutter, Malcolm	Co.Cwt2f	Co.Ibis2f
+IMD08113.P1a	IMD08113	Practical	Tuesday	9:00	1:00	2-13	M.Kilby.C10	Co.Imd.Rutter, Malcolm	Co.Cwt2f	Co.Ibis2f
+IMD08113.L1	IMD08113	Lecture	Friday	11:00	1:00	2-13	Merch.H9	Co.Imd.Rutter, Malcolm	Co.Cwt2f	Co.Ibis2f
+IMD09104.L1	IMD09104	Lecture	Wednesday	10:00	3:00	2-13	Merch.A17	Co.Imd.Smith, Ian,Co.Imd.Flint, Tom,Co.Imd.Sobolewska, Emilia	Co.Cdm3f-A	Co.Cdm3f-B	Co.Cimd3f-A	Co.Cimd3f-B
+IMD09104.L2	IMD09104	Lecture	Wednesday	13:00	4:00	2-13	Merch.A17	Co.Imd.Smith, Ian,Co.Imd.Flint, Tom,Co.Imd.Sobolewska, Emilia	Co.Cdm3f-A	Co.Cdm3f-B	Co.Cimd3f-A	Co.Cimd3f-B
+IMD09108.L1	IMD09108	Lecture	Thursday	9:00	2:00	2-13	Merch.F29	Co.Imd.Smyth, Michael,Co.Imd.Varey, Alison	Bs.Ug.Mktg W Dm.3	Co.Cdm3f-A	Co.Cdm3f-B	Co.Cimd3f-A	Co.Cimd3f-B	Co.Cwt3f	Co.Cwt4fwbl
+IMD09108.T1a	IMD09108	Tutorial	Thursday	11:00	2:00	2-13	Merch.F29	Co.Imd.Smyth, Michael,Co.Imd.Varey, Alison	Co.Cdm3f-A	Co.Cwt3f	Co.Cwt4fwbl
+IMD09108.T1b	IMD09108	Tutorial	Thursday	14:00	2:00	2-13	Merch.A55	Co.Imd.Smyth, Michael,Co.Imd.Varey, Alison	Bs.Ug.Mktg W Dm.3	Co.Cdm3f-B	Co.Cimd3f-A	Co.Cimd3f-B
+IMD09128.P1c	IMD09128	Practical	Thursday	10:00	2:00	2-13	Merch.D36.co	Co.Imd. Hetherington, Richard,Co.Imd.Smith, Ian	&nbsp;
+IMD09128.P1b	IMD09128	Practical	Friday	9:00	2:00	2-13	Merch.D36.co	Co.Imd.Smith, Ian	Co.Cimd3f-A
+IMD09128.P1a	IMD09128	Practical	Friday	11:00	2:00	2-13	Merch.D36.co	Co.Imd. Hetherington, Richard,Co.Imd.Smith, Ian	Co.Cdm3f-A	Co.Cdm3f-B	Co.Cimd3f-A
+IMD09128.L1	IMD09128	Lecture	Friday	14:00	2:00	2-13	Merch.F29	Co.Imd. Hetherington, Richard	Co.Cdm3f-A	Co.Cdm3f-B	Co.Cimd3f-A	Co.Cimd3f-B
+IMD09130.L1	IMD09130	Lecture	Tuesday	9:00	2:00	2-13	Merch.H10	Co.Imd.Leplatre, Gregory	Co.Cdm3f-A	Co.Cdm3f-B
+IMD09130.P1a	IMD09130	Practical	Tuesday	11:00	2:00	2-13	Merch.D35.co	Co.Imd.Leplatre, Gregory	Co.Cdm3f-A
+IMD09130.P1b	IMD09130	Practical	Tuesday	14:00	2:00	2-13	Merch.D35.co	Co.Imd.Leplatre, Gregory	Co.Cdm3f-B
+IMD09130.P1c	IMD09130	Practical	Tuesday	16:00	2:00	2-13	Merch.D35.co	Co.Imd.Leplatre, Gregory	&nbsp;
+IMD10102.L1	IMD10102	Lecture	Wednesday	10:00	2:00	2-13	Merch.G28	Co.Imd.Mcgregor, Iain	Co.Cdm4f-A	Co.Cdm4f-B	Co.Cdm5fwbl	Co.Cimd4f-A
+IMD10102.P1a	IMD10102	Practical	Wednesday	13:00	2:00	2-13	Merch.D35.co	Co.Imd.Mcgregor, Iain	Co.Cdm4f-A	Co.Cdm4f-B	Co.Cdm5fwbl	Co.Cimd4f-A
+IMD10103.L1	IMD10103	Lecture	Friday	9:00	2:00	2-13	Merch.F27	Co.Imd.Leplatre, Gregory	Co.Cdm4f-A	Co.Cdm4f-B	Co.Cdm5fwbl
+IMD10103.P1b	IMD10103	Practical	Friday	11:00	2:00	2-13	Merch.D35.co	Co.Imd.Leplatre, Gregory	Co.Cdm4f-B	Co.Cdm5fwbl
+IMD10103.P1a	IMD10103	Practical	Friday	14:00	2:00	2-13	Merch.D35.co	Co.Imd.Leplatre, Gregory	Co.Cdm4f-A
+IMD10107.L1	IMD10107	Lecture	Monday	9:00	3:00	2-13	Merch.H9	Co.Imd. Hetherington, Richard	Co.Cdm4f-A	Co.Cdm4f-B	Co.Cdm5fwbl	Co.Cimd4f-A
+IMD10107.L2	IMD10107	Lecture	Monday	13:00	2:00	9-13	Merch.G2	Co.Imd. Hetherington, Richard	Co.Cdm4f-A	Co.Cdm4f-B	Co.Cdm5fwbl	Co.Cimd4f-A
+IMD10107.P1a	IMD10107	Practical	Monday	15:00	2:00	2-13	Merch.D36.co	Co.Imd. Hetherington, Richard	Co.Cdm5fwbl	Co.Cimd4f-A
+IMD10107.P1b	IMD10107	Practical	Thursday	14:00	2:00	2-13	Merch.D36.co	Co.Imd. Hetherington, Richard	Co.Cdm4f-A	Co.Cdm4f-B
+IMD10109.L1	IMD10109	Lecture	Thursday	11:00	2:00	2-13	Merch.A17	Co.Imd.Turner, Susan,Co.Imd.Turner, Phil	Bs.Ug.Mktg W Dm.4	Co.Cimd4f-A
+IMD10109.T1a	IMD10109	Lecture	Thursday	15:00	1:00	2-13	Merch.H11	Co.Imd.Turner, Susan,Co.Imd.Turner, Phil	Bs.Ug.Mktg W Dm.4	Co.Cimd4f-A
+IMD10109.P1a	IMD10109	Practical	Thursday	16:00	1:00	2-13	Merch.D36.co	Co.Imd.Turner, Susan,Co.Imd.Turner, Phil	Bs.Ug.Mktg W Dm.4	Co.Cimd4f-A
+IMD11108.L1	IMD11108	Lecture	Tuesday	9:00	2:00	2-3, 11-13	Merch.G31	Co.Imd.Mcewan, Tom	Co.Cmengse5	Co.Cmengse6wbl	Co.Cmsciimd5f
+IMD11108.S1	IMD11108	Seminar	Wednesday	13:00	4:00	2-3, 10-12	Merch.H7	Co.Imd.Mcewan, Tom	Co.Cmengse5	Co.Cmengse6wbl	Co.Cmsciimd5f
+IMD11112.L1	IMD11112	Lecture	Monday	9:00	2:00	2-13	Merch.G29	Co.Imd. Benyon, David,Co.Imd.Mcewan, Tom	Co.Misue1f	Co.Misue1p
+IMD11112.T1	IMD11112	Tutorial	Monday	12:00	2:00	2-13	Merch.G29	Co.Imd. Benyon, David,Co.Imd.Mcewan, Tom	Co.Misue1f	Co.Misue1p
+INF07103.L1	INF07103	Lecture	Monday	11:00	2:00	2-13	Merch.A17	Co.Inf.Bhardwaj, Jyoti	Co.Cc1f-A	Co.Cc1f-B	Co.Cc1f-C	Co.Cc1f-D	Co.Cc1f-E	Co.Cc1f-F	Co.Ibis1f
+INF07103.T1e	INF07103	Tutorial	Monday	14:00	1:00	2-13	Merch.H18	Co.Inf.Westlake, David	Co.Cc1f-E	Co.Cc1f-F
+INF07103.W1d	INF07103	Workshop	Monday	14:00	2:00	2-13	Merch.C19	Co.Inf.Bhardwaj, Jyoti	&nbsp;
+INF07103.P1d	INF07103	Practical	Monday	14:00	2:00	2-13	M.Kilby.C03	Co.Imd.Sobolewska, Emilia	Co.Cc1f-D
+INF07103.T1b	INF07103	Tutorial	Tuesday	10:00	1:00	2-13	Merch.G2	Co.Inf.Westlake, David	Co.Cc1f-B	Co.Ibis1f
+INF07103.W1a	INF07103	Workshop	Tuesday	10:00	2:00	2-13	Merch.C19	Co.Inf.Bhardwaj, Jyoti	&nbsp;
+INF07103.P1a	INF07103	Practical	Tuesday	10:00	2:00	2-13	M.Kilby.C03	Co.Imd.Sobolewska, Emilia	Co.Cc1f-A
+INF07103.P1e	INF07103	Practical	Tuesday	12:00	2:00	2-13	M.Kilby.C03	Co.Imd.Sobolewska, Emilia	Co.Cc1f-E
+INF07103.W1e	INF07103	Workshop	Tuesday	12:00	2:00	2-13	Merch.C19	Co.Inf.Bhardwaj, Jyoti	&nbsp;
+INF07103.T1a	INF07103	Tutorial	Tuesday	14:00	1:00	2-13	Merch.H9	Co.Inf.Westlake, David	Co.Cc1f-A
+INF07103.W1b	INF07103	Workshop	Tuesday	14:00	2:00	2-13	Merch.C19	Co.Inf.Bhardwaj, Jyoti	&nbsp;
+INF07103.P1b	INF07103	Practical	Tuesday	14:00	2:00	2-13	M.Kilby.C03	Co.Imd.Sobolewska, Emilia	Co.Cc1f-B
+INF07103.T1e - week 3	INF07103	Tutorial	Tuesday	15:00	1:00	3	Merch.F28	Co.Inf.Westlake, David	Co.Cc1f-E	Co.Cc1f-F
+INF07103.P1f	INF07103	Practical	Tuesday	16:00	2:00	2-13	M.Kilby.C03	Co.Inf.Bhardwaj, Jyoti,Co.Imd.Sobolewska, Emilia	Co.Ibis1f
+INF07103.P1d - week 3	INF07103	Practical	Thursday	12:00	2:00	3	M.Kilby.C03	Co.Imd.Sobolewska, Emilia	Co.Cc1f-D
+INF07103.T1c	INF07103	Tutorial	Thursday	14:00	1:00	2-13	Merch.H6	Co.Inf.Westlake, David	Co.Cc1f-C
+INF07103.T1d	INF07103	Tutorial	Thursday	16:00	1:00	2-13	Merch.H18	Co.Inf.Westlake, David	Co.Cc1f-D
+INF07103.W1c	INF07103	Workshop	Friday	14:00	2:00	2-13	Merch.C19	Co.Inf.Bhardwaj, Jyoti	&nbsp;
+INF07103.P1c	INF07103	Practical	Friday	14:00	2:00	2-13	M.Kilby.C02	Co.Imd.Sobolewska, Emilia	Co.Cc1f-C	Co.Cc1f-F
+INF08101.L1	INF08101	Lecture	Tuesday	13:00	2:00	2-13	Merch.G28	Co.Inf.Ritchie, Bryden	Co.Ibis2f
+INF08101.T1	INF08101	Tutorial	Tuesday	15:00	2:00	2-13	Merch.G28	Co.Inf.Ritchie, Bryden	Co.Ibis2f
+INF08104.L1	INF08104	Lecture	Wednesday	10:00	2:00	2-13	Merch.H5	Co.Inf.Davison, Brian	Co.Cc2f-A	Co.Cc2f-B	Co.Cc2f-C	Co.Cc2f-D	Co.Cie2f	Co.Cwt2f	Co.Ibis2f
+INF08104.P1b	INF08104	Practical	Wednesday	13:00	2:00	2-13	M.Kilby.C07,M.Kilby.C06	Co.Inf.Davison, Brian	Co.Cc2f-C	Co.Cc2f-D
+INF08104.P1c	INF08104	Practical	Wednesday	15:00	2:00	2-13	M.Kilby.C07,M.Kilby.C06	Co.Inf.Davison, Brian	Co.Cie2f	Co.Cwt2f	Co.Ibis2f
+INF08104.P1a	INF08104	Practical	Thursday	10:00	2:00	2-13	M.Kilby.C07,M.Kilby.C08	Co.Inf.Davison, Brian	Co.Cc2f-A	Co.Cc2f-B
+INF09101.L1	INF09101	Lecture	Monday	11:00	2:00	2-13	Merch.G2	Co.Inf.Soutar, Alastair	Co.Ibis3f	Co.Iis4wbl
+INF09101.T1a	INF09101	Tutorial	Tuesday	15:00	2:00	2-13	Merch.H15	Co.Inf.Soutar, Alastair	Co.Ibis3f	Co.Iis4wbl
+INF09101.T1b	INF09101	Tutorial	Wednesday	12:00	2:00	2-13	Merch.G4	Co.Inf.Soutar, Alastair	&nbsp;
+INF09102.L1	INF09102	Lecture	Friday	10:00	2:00	2-13	Merch.F28	Co.Inf.Bhardwaj, Jyoti	Co.Ibis3f	Co.Iis4wbl
+INF09102.T1	INF09102	Tutorial	Friday	13:00	1:00	2-13	Merch.F28	Co.Inf.Bhardwaj, Jyoti	Co.Ibis3f	Co.Iis4wbl
+INF09102.W1	INF09102	Workshop	Friday	14:00	1:00	2-4	Merch.F28	Co.Inf.Richards, Kendall	Co.Ibis3f	Co.Iis4wbl
+INF09102.P1	INF09102	Practical	Friday	14:00	2:00	6-9	Merch.C27.co	Co.Inf.Ritchie, Bryden	Co.Ibis3f	Co.Iis4wbl
+INF10101.L1	INF10101	Lecture	Thursday	10:00	2:00	2-13	Merch.H18	Co.Inf.Bhardwaj, Jyoti,Co.Inf.Ritchie, Bryden	Co.Ccn&S4f	Co.Ccn&S5wbl	Co.Ccsf4f	Co.Ccsf5wbl	Co.Clc4f	Co.Clc5wbl	Co.Cm&Ecs4f	Co.Cm&Ecs5fwbl	Co.Cwt4f
+INF10101.T1b	INF10101	Practical	Thursday	13:00	2:00	2-13	Merch.H11	Co.Inf.Bhardwaj, Jyoti,Co.Inf.Ritchie, Bryden	Co.Ccsf4f	Co.Ccsf5wbl	Co.Cwt4f
+INF10101.T1a	INF10101	Tutorial	Thursday	16:00	2:00	2-13	Merch.H9	Co.Inf.Bhardwaj, Jyoti,Co.Inf.Ritchie, Bryden	Co.Ccn&S4f	Co.Ccn&S5wbl	Co.Clc4f	Co.Clc5wbl	Co.Cm&Ecs4f	Co.Cm&Ecs5fwbl
+INF10102.L1	INF10102	Lecture	Thursday	10:00	2:00	2-13	Merch.C19	Co.Inf.Hall, Hazel,Co.Csn.Cruickshank, Peter	Co.Ibis4f	Co.Iis5wbl
+INF10102.T1	INF10102	Tutorial	Thursday	13:00	2:00	2-13	Merch.C19	Co.Inf.Hall, Hazel,Co.Csn.Cruickshank, Peter	Co.Ibis4f	Co.Iis5wbl
+INF10103/INF11106.L1	INF10103	Lecture	Monday	11:00	1:00	2-13	Merch.H11	Co.Inf.Chita, Pritam	Co.Ibis4f	Co.Iis5wbl
+INF10103.T1	INF10103	Tutorial	Monday	13:00	2:00	2-13	Merch.G27	Co.Inf.Chita, Pritam	Co.Ibis4f	Co.Iis5wbl
+INF10104.T1a	INF10104	Tutorial	Wednesday	9:00	2:00	2-13	Merch.H11	Co.Inf.Chita, Pritam	Co.Cse4f	Co.Cse5wbl
+INF10104.T1b	INF10104	Tutorial	Friday	9:00	2:00	2-13	Merch.H11	Co.Inf.Chita, Pritam	Co.Cc4f	Co.Cc5wbl	Co.Cie4f	Co.Cwt4f
+INF11103.T1	INF11103	Tutorial	Monday	9:00	2:00	2-13	Merch.C19	Co.Inf.Chita, Pritam	Co.Mase1fjan
+INF11106.T1	INF11106	Tutorial	Wednesday	11:00	2:00	2-13	Merch.C18	Co.Inf.Chita, Pritam	&nbsp;
+JAC09116.L1b	JAC09116	Lecture	Tuesday	9:00	4:00	2-15 - Assessment We	Merch.A53.ci,Merch.A42.ci	Ca.Maclean, D	Ca.Baj.3b
+JAC09116.L1a	JAC09116	Lecture	Thursday	10:00	5:00	2-15 - Assessment We	Merch.A53.ci,Merch.A42.ci	Ca.Blake, J	Ca.Baj.3a
+JAC09116.L1c	JAC09116	Lecture	Friday	13:00	4:00	2-15 - Assessment We	Merch.A53.ci,Merch.A42.ci	Ca.Stewart, C	Ca.Baj.3c
+JAC10119.T1	JAC10119	Lecture/Tutorial	Wednesday	9:00	5:00	2-15 - Assessment We	Merch.A53.ci,Merch.A42.ci	Ca.Maclean, D	Ca.Baj.4a	Ca.Baj.4b	Ca.Baj.4c
+JAC11120.L1	JAC11120	Lecture	Monday	10:00	6:00	2-15 - Assessment We	Merch.A53.ci,Merch.A44.ci,Merch.A42.ci	Ca.Blake, J	Ca.Maj.A	Ca.Maj.B
+LMD07102	LMD07101	Lecture	Monday	9:00	8:00	2-15 - Assessment We	Merch.SA Studio2.dm	Dm.Rb	Dm.Pf.1
+LMD07101.L	LMD07101	Lecture	Wednesday	9:00	8:00	2-15 - Assessment We	March.rm109,March.LT	Dm.Pg,Dm.Mak	Dm.Pf.1
+LMD07101.Lab	LMD07102	Practical	Wednesday	9:00	8:00	2-13	Merch.A33 Mac.dm	&nbsp;	&nbsp;
+LMD07107	LMD07107	Lecture	Tuesday	9:00	4:00	2-13	March.LT,March.3,March.6D	Dm.Ps,Dm.Sb	Dm.Pf.1
+LMD08102	LMD08102	Lecture	Thursday	9:00	4:00	2-15 - Assessment We	Merch.SA Studio1.dm	Dm.Ca	Dm.Pf.2b
+LMD08102.T	LMD08102	Lecture	Thursday	13:00	4:00	2-13	Merch.F28	Dm.Ca	Dm.Pf.2b
+LMD08103	LMD08103	Lecture	Wednesday	9:00	8:00	2-15 - Assessment We	March.rm104,March.OCR(Rm7)	Dm.Rg	Dm.Pf.2a
+LMD08104	LMD08104	Lecture	Friday	9:00	8:00	2-15 - Assessment We	March.LT	Dm.Cc	Dm.Pf.2a
+LMD08105	LMD08105	Lecture	Tuesday	9:00	4:00	2-15 - Assessment We	Merch.SA Studio2.dm	&nbsp;	Dm.Pf.2b
+LMD08113	LMD08113	Lecture	Monday	9:00	3:00	2-13	Merch.B2	Dm.Mak	Dm.Pf.2a
+LMD08113.T	LMD08113	Lecture	Monday	11:00	2:00	2-13	Merch.C19	&nbsp;	&nbsp;
+LMD08114	LMD08114	Lecture	Monday	9:00	8:00	2-13	Merch.SA Studio1.dm	Dm.Ps	Ca.English & Film 2a	Ca.English & Film 2b	Dm.Pf.2b
+LMD08114b	LMD08114	Lecture	Monday	9:00	3:00	4	Merch.A55	&nbsp;	&nbsp;
+LMD09100	LMD09100	Lecture	Monday	9:00	8:00	2-13	March.rm109,March.LT,March.6D	Dm.Lmn,Dm.Rm	Dm.Pf.3a	Dm.Pf.3b
+LMD09101	LMD09101	Lecture	Wednesday	9:00	8:00	2-15 - Assessment We	Merch.SA Studio1.dm	Dm.Sb	Dm.Pf.3b
+LMD09102	LMD09102	Lecture	Tuesday	9:00	8:00	2-15 - Assessment We	March.rm109	Dm.Cc	Dm.Pf.3a
+LMD09108	LMD09108	Lecture	Friday	9:00	8:00	2-15 - Assessment We	Merch.SA Studio1.dm	Dm.Pg,Dm.Rb,Dm.Ph	Dm.Pf.3b
+LMD09109	LMD09109	Lecture	Thursday	9:00	8:00	2-15 - Assessment We	March.rm109	Dm.Rg	Dm.Pf.3a
+LMD09112	LMD09111	Lecture	Tuesday	10:00	3:00	2-13	Merch.A44.ci	&nbsp;	Dm.Tv.3
+LMD09111	LMD09111	Lecture	Wednesday	11:00	4:00	2-6, 8-13	Merch.H15	&nbsp;	Dm.Tv.3
+LMD09111b	LMD09111	Lecture	Friday	10:00	8:00	2-13	Merch.H6	&nbsp;	&nbsp;
+LMD09113	LMD09111	Lecture	Friday	10:00	3:00	2-15 - Assessment We	Merch.A53.ci	&nbsp;	Dm.Tv.3
+LMD10100	LMD10100	Lecture	Tuesday	9:00	4:00	4, 8	Merch.SA Studio1.dm	Dm.Lmn,Dm.Mak,Dm.Rm	Dm.Pf.4a	Dm.Pf.4b
+LMD10101.b	LMD10101	Lecture	Tuesday	9:00	4:00	2-3, 5-7	Merch.SA Studio1.dm	Dm.Pg,Dm.Rb	Dm.Pf.4b
+LMD10101.a	LMD10101	Lecture	Tuesday	10:00	3:00	3, 5, 8, 10-12	March.rm104	Dm.Ca	&nbsp;
+LMD10104	LMD10104	Lecture	Monday	11:00	3:00	2-13	Merch.H6	Ca.Maclean, D	Dm.Tv.4
+LMD10105	LMD10105	Lecture	Tuesday	13:00	3:00	2-13	Merch.A44.ci	Dm.As	Dm.Tv.4
+LMD10106	LMD10106	Lecture	Tuesday	9:00	3:00	2-3	Merch.G4	Dm.As	Dm.Tv.4
+LMD10107	LMD10106	Lecture	Wednesday	14:00	3:00	2-13	Merch.A44.ci	Dm.As	Dm.Tv.4
+LNGSupport.L05	LNGSupport	Workshop	Monday	9:00	2:00	2-13	Merch.H6	Bs.Lng.Pilcher, Nick	Bs.Ug.English Support Prog
+MEC08101.P2i	MEC08101	Practical	Monday	9:00	2:00	2-13	Merch.B55-1.se	Eb.Mec.Shanmugakani, Pavithiran	Eb.Beng.2options Ele08105 (B)	Eb.Beng.2options Ele08106 (B)	Eb.Beng.2options Ele08107 (B)	Eb.Beng.2options Ele08108 (B)	Eb.Bengegy.2	Eb.Bengewm.2	Eb.Bengme.2	Eb.Bengmem.2	Eb.Bengpe.2	Eb.Pd.2	Eb.Pde/St.2options Ele08105	Eb.Pde/St.2options Ele08106	Eb.Pde/St.2options Ele08107	Eb.Pde/St.2options Ele08108	Eb.St.2
+MEC08101.P2v	MEC08101	Practical	Monday	13:00	2:00	2-13	Merch.B55-2	Eb.Mec.Shanmugakani, Pavithiran	&nbsp;
+MEC08101.L1	MEC08101	Lecture	Tuesday	9:00	1:00	2-13	Merch.H9	Eb.Mec.Chowdhry, Sandeep	Eb.Beng.2options Ele08105 (B)	Eb.Beng.2options Ele08106 (B)	Eb.Beng.2options Ele08107 (B)	Eb.Beng.2options Ele08108 (B)	Eb.Bengegy.2	Eb.Bengewm.2	Eb.Bengewm.3pt	Eb.Bengme.2	Eb.Bengme.3pt	Eb.Bengmem.2	Eb.Bengpe.2	Eb.Pd.2	Eb.Pde/St.2options Ele08105	Eb.Pde/St.2options Ele08106	Eb.Pde/St.2options Ele08107	Eb.Pde/St.2options Ele08108	Eb.St.2
+MEC08101.P2iv	MEC08101	Practical	Tuesday	14:00	1:00	2-13	Merch.B55-1.se	Eb.Mec.Bowman, Colin	Eb.Bengewm.3pt	Eb.Bengme.3pt
+MEC08101.P1ii	MEC08101	Practical	Tuesday	17:00	1:00	2-13	Merch.G31	Eb.Mec.Chowdhry, Sandeep	Eb.Bengewm.3pt	Eb.Bengme.3pt
+MEC08101.P2iii	MEC08101	Practical	Wednesday	12:00	2:00	2-13	Merch.B55-1.se	Eb.Mec.Bowman, Colin	Eb.Beng.2options Ele08105 (B)	Eb.Beng.2options Ele08106 (B)	Eb.Beng.2options Ele08107 (B)	Eb.Beng.2options Ele08108 (B)	Eb.Bengegy.2	Eb.Bengewm.2	Eb.Bengme.2	Eb.Bengmem.2	Eb.Bengpe.2	Eb.Pd.2	Eb.Pde/St.2options Ele08105	Eb.Pde/St.2options Ele08106	Eb.Pde/St.2options Ele08107	Eb.Pde/St.2options Ele08108	Eb.St.2
+MEC08101.P2ii	MEC08101	Practical	Thursday	16:00	2:00	2-13	Merch.B55-1.se	Eb.Mec.Shanmugakani, Pavithiran	Eb.Beng.2options Ele08105 (B)	Eb.Beng.2options Ele08106 (B)	Eb.Beng.2options Ele08107 (B)	Eb.Beng.2options Ele08108 (B)	Eb.Bengegy.2	Eb.Bengewm.2	Eb.Bengme.2	Eb.Bengmem.2	Eb.Bengpe.2	Eb.Pd.2	Eb.Pde/St.2options Ele08105	Eb.Pde/St.2options Ele08106	Eb.Pde/St.2options Ele08107	Eb.Pde/St.2options Ele08108	Eb.St.2
+MEC08101.P1i	MEC08101	Practical	Friday	16:00	2:00	2-13	Merch.G2	Eb.Mec.Shanmugakani, Pavithiran	Eb.Beng.2options Ele08105 (B)	Eb.Beng.2options Ele08106 (B)	Eb.Beng.2options Ele08107 (B)	Eb.Beng.2options Ele08108 (B)	Eb.Bengegy.2	Eb.Bengewm.2	Eb.Bengme.2	Eb.Bengmem.2	Eb.Bengpe.2	Eb.Pd.2	Eb.Pde/St.2options Ele08105	Eb.Pde/St.2options Ele08106	Eb.Pde/St.2options Ele08107	Eb.Pde/St.2options Ele08108	Eb.St.2
+MEC08102.L	MEC08102	Lecture	Tuesday	10:00	3:00	2-13	Merch.H18	Eb.Mec.Kubie, Jorge	Eb.Beng.2options Ele08105 (B)	Eb.Beng.2options Ele08106 (B)	Eb.Beng.2options Ele08107 (B)	Eb.Beng.2options Ele08108 (B)	Eb.Bengegy.2	Eb.Bengewm.2	Eb.Bengme.2	Eb.Bengme.3pt	Eb.Bengmem.2	Eb.Bengpe.2
+MEC08102.T	MEC08102	Tutorial	Tuesday	15:00	2:00	2-13	Merch.H10	Eb.Mec.Boswell, Colin	Eb.Beng.2options Ele08105 (B)	Eb.Beng.2options Ele08106 (B)	Eb.Beng.2options Ele08107 (B)	Eb.Beng.2options Ele08108 (B)	Eb.Bengegy.2	Eb.Bengewm.2	Eb.Bengme.2	Eb.Bengme.3pt	Eb.Bengmem.2	Eb.Bengpe.2
+MEC08103.T/P	MEC08103	Tutorial/Practical	Friday	9:00	3:00	2-13	Merch.D17.se	Eb.Mec.Harris, Norman	Eb.Pd.2	Eb.Pde/St.2options Ele08105	Eb.Pde/St.2options Ele08106	Eb.Pde/St.2options Ele08107	Eb.Pde/St.2options Ele08108	Eb.St.2
+MEC08105.Tb	MEC08105	Tutorial	Tuesday	10:00	2:00	2-12	Merch.G28	Eb.Mec.Tannous, Joe	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08108 (A)	Eb.Bengcom.2	Eb.Bengcpt.2	Eb.Bengee.2	Eb.Bengele.2	Eb.Bengmt.2
+MEC08105.Pb	MEC08105	Practical	Tuesday	12:00	1:00	2, 4, 6, 8, 10, 12	Merch.B55-1.se	Eb.Mec.Tannous, Joe	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08108 (A)	Eb.Bengcom.2	Eb.Bengcpt.2	Eb.Bengee.2	Eb.Bengele.2	Eb.Bengmt.2
+MEC08105.Pa	MEC08105	Practical	Tuesday	12:00	1:00	3, 5, 7, 9, 11, 13	Merch.B55-1.se	Eb.Mec.Tannous, Joe	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08108 (A)	Eb.Bengcom.2	Eb.Bengcpt.2	Eb.Bengee.2	Eb.Bengele.2	Eb.Bengmt.2
+MEC08105.L1	MEC08105	Lecture	Tuesday	14:00	2:00	2-13	Merch.C18	Eb.Mec.Tannous, Joe	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08108 (A)	Eb.Bengcom.2	Eb.Bengcpt.2	Eb.Bengee.2	Eb.Bengee.2pt	Eb.Bengele.2	Eb.Bengele.2pt	Eb.Bengewm.2pt	Eb.Bengme.2pt	Eb.Bengmt.2
+MEC08105.Ta	MEC08105	Tutorial	Tuesday	16:00	2:00	2-12	Merch.C18	Eb.Mec.Tannous, Joe	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08108 (A)	Eb.Bengcom.2	Eb.Bengcpt.2	Eb.Bengee.2	Eb.Bengee.2pt	Eb.Bengele.2	Eb.Bengele.2pt	Eb.Bengewm.2pt	Eb.Bengme.2pt	Eb.Bengmt.2
+MEC08106.P1	MEC08106	Practical	Monday	13:00	2:00	2-7	Merch.B68-1.se	Eb.Mec.Goldfinch, Simon	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08108 (A)	Eb.Bengcom.2	Eb.Bengcpt.2
+MEC08106.P4	MEC08106	Practical	Monday	13:00	2:00	8-13	Merch.B68-2.se	Eb.Mec.Goh, Keng	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08108 (A)	Eb.Bengcom.2	Eb.Bengcpt.2
+MEC08106.P3	MEC08106	Practical	Tuesday	15:00	2:00	2-7	Merch.B68-1.se	Eb.Mec.Goldfinch, Simon	Eb.Bengee.3pt	Eb.Bengele.3pt
+MEC08106.P6	MEC08106	Practical	Tuesday	15:00	2:00	8-13	Merch.B68-2.se	Eb.Mec.Goh, Keng	Eb.Bengee.3pt	Eb.Bengele.3pt
+MEC08106.DS2	MEC08106	Directed Study	Wednesday	11:00	1:00	8-13	Merch.B68-2.se	&nbsp;	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08108 (A)	Eb.Bengee.2	Eb.Bengele.2	Eb.Bengmt.2
+MEC08106.P2	MEC08106	Practical	Thursday	17:00	2:00	2-7	Merch.B68-1.se	Eb.Mec.Goldfinch, Simon	Eb.Bengee.2	Eb.Bengele.2	Eb.Bengmt.2
+MEC08106.P5	MEC08106	Practical	Thursday	17:00	2:00	8-13	Merch.B68-2.se	Eb.Mec.Goh, Keng	Eb.Bengee.2	Eb.Bengele.2	Eb.Bengmt.2
+MEC08106.DS1	MEC08106	Directed Study	Friday	10:00	1:00	8-13	Merch.B68-2.se	&nbsp;	Eb.Beng.2options Ele08105 (A)	Eb.Beng.2options Ele08106 (A)	Eb.Beng.2options Ele08107  (A)	Eb.Beng.2options Ele08108 (A)	Eb.Bengcom.2	Eb.Bengcpt.2
+MEC09100.L/T1	MEC09100	Lecture/Tutorial	Monday	9:00	2:00	2-13	Merch.H11	Eb.Mec.Barker, Mike	Eb.Bengpe.3	Eb.Pd.3	Eb.St.3
+MEC09100.S1	MEC09100	Lecture/Tutorial	Wednesday	13:00	5:00	7	M.Kilby.C02	&nbsp;	&nbsp;
+MEC09100.L/T2	MEC09100	Lecture/Tutorial	Friday	10:00	2:00	2-13	Merch.H15	Eb.Mec.Barker, Mike	Eb.Bengpe.3	Eb.Pd.3	Eb.St.3
+MEC09104.T1a	MEC09104	Tutorial	Monday	16:00	1:00	2, 5, 8, 11	Merch.G31	Eb.Mec.Davidson, Alan	Eb.Bengegy.3a	Eb.Bengmem.3
+MEC09104.T2a	MEC09104	Tutorial	Monday	16:00	1:00	3, 6, 9, 12	Merch.G29	Eb.Mec.Hindle, Colin	Eb.Bengegy.3a	Eb.Bengmem.3
+MEC09104.T1d	MEC09104	Tutorial	Monday	17:00	1:00	2, 5, 8, 11	Merch.G31	Eb.Mec.Davidson, Alan	Eb.Bengme.3
+MEC09104.T2d	MEC09104	Tutorial	Monday	17:00	1:00	3, 6, 9, 12	Merch.G31	Eb.Mec.Hindle, Colin	Eb.Bengme.3
+MEC09104.P1a	MEC09104	Shared Lab	Tuesday	9:00	3:00	4, 7, 10, 13	Merch.A18.se,Merch.B15.se	Eb.Mec.Hindle, Colin,Eb.Mec.Shearer, Neil	Eb.Bengegy.3a	Eb.Bengmem.3
+MEC09104.P1e	MEC09104	Practical	Tuesday	12:00	3:00	4, 7, 10, 13	Merch.B15.se	Eb.Mec.Davidson, Alan	Eb.Bengpe.3	Eb.Pd.3	Eb.St.3
+MEC09104.T1g	MEC09104	Tutorial	Tuesday	13:00	1:00	2, 5, 8, 11	Merch.G31	Eb.Mec.Davidson, Alan	Eb.Bengpe.3	Eb.St.3
+MEC09104.T2g	MEC09104	Tutorial	Tuesday	13:00	1:00	3, 6, 9, 12	Merch.G31	Eb.Mec.Hindle, Colin	Eb.Bengpe.3	Eb.St.3
+MEC09104.P1b	MEC09104	Shared Lab	Tuesday	15:00	3:00	4, 7, 10, 13	Merch.A18.se,Merch.B15.se	Eb.Mec.Hindle, Colin,Eb.Mec.Shearer, Neil	Eb.Bengegy.3b	Eb.Bengewm.3
+MEC09104.P1d	MEC09104	Practical	Wednesday	9:00	3:00	4, 7, 10, 13	Merch.A18.se,Merch.B15.se	Eb.Mec.Hindle, Colin	&nbsp;
+MEC09104.T1c	MEC09104	Tutorial	Thursday	11:00	1:00	2, 5, 8, 11	Merch.H17	Eb.Mec.Davidson, Alan	Eb.Bengewm.3
+MEC09104.T2c	MEC09104	Tutorial	Thursday	11:00	1:00	3, 6, 9, 12	Merch.H17	Eb.Mec.Hindle, Colin	Eb.Bengewm.3
+MEC09104.L1	MEC09104	Shared Lecture	Thursday	14:00	3:00	2-3, 5-6, 8-9, 11-12	Merch.F29	Eb.Mec.Davidson, Alan,Eb.Mec.Hindle, Colin	Eb.Bengegy.3a	Eb.Bengegy.3b	Eb.Bengewm.3	Eb.Bengewm.4pt	Eb.Bengme.3	Eb.Bengme.4pt	Eb.Bengmem.3	Eb.Bengpe.3	Eb.Pd.3	Eb.St.3
+MEC09104.P1f	MEC09104	Practical	Thursday	14:00	3:00	4, 7, 10, 13	Merch.A18.se,Merch.B15.se	Eb.Mec.Hindle, Colin	Eb.Bengewm.4pt	Eb.Bengme.4pt
+MEC09104.T1h	MEC09104	Tutorial	Thursday	17:00	1:00	2, 5, 8, 11	Merch.A55	Eb.Mec.Davidson, Alan	Eb.Bengewm.4pt	Eb.Bengme.4pt
+MEC09104.T2h	MEC09104	Tutorial	Thursday	17:00	1:00	3, 6, 9, 12	Merch.A55	Eb.Mec.Hindle, Colin	Eb.Bengewm.4pt	Eb.Bengme.4pt
+MEC09104.P1c	MEC09104	Shared Lab	Friday	10:00	3:00	4, 7, 10, 13	Merch.A18.se,Merch.B15.se	Eb.Mec.Hindle, Colin,Eb.Mec.Shearer, Neil	Eb.Bengme.3
+MEC09104.T1b	MEC09104	Tutorial	Friday	12:00	1:00	2, 5, 8, 11	Merch.H14	Eb.Mec.Davidson, Alan	Eb.Bengegy.3b
+MEC09104.T2b	MEC09104	Tutorial	Friday	12:00	1:00	3, 6, 9, 12	Merch.G29	Eb.Mec.Hindle, Colin	Eb.Bengegy.3b
+MEC09104.T1f	MEC09104	Tutorial	Friday	13:00	1:00	2, 5, 8, 11	Merch.C19	Eb.Mec.Davidson, Alan	Eb.Pd.3
+MEC09104.T2f	MEC09104	Tutorial	Friday	13:00	1:00	3, 6, 9, 12	Merch.C19	Eb.Mec.Hindle, Colin	Eb.Pd.3
+MEC09104.T1e	MEC09104	Tutorial	Friday	14:00	1:00	2, 5, 8, 11	Merch.H14	Eb.Mec.Davidson, Alan	&nbsp;
+MEC09104.T2e	MEC09104	Tutorial	Friday	14:00	1:00	3, 6, 9, 12	Merch.G29	Eb.Mec.Hindle, Colin	&nbsp;
+MEC09106.L/T	MEC09106	Lecture/Tutorial	Wednesday	9:00	3:00	2-13	Merch.F27	Eb.Mec.Shearer, Neil	Eb.St.3	Ls.Ses.3
+MEC09106.P1	MEC09106	Practical	Friday	15:00	3:00	2-13	Merch.A18.se	Eb.Mec.Shearer, Neil	Eb.St.3	Ls.Ses.3
+MEC09110.P1	MEC09110	Practical	Monday	9:00	2:00	2-6	Merch.B69.se	Eb.Mec.Smith, Gareth	Eb.Bengmt.3
+MEC09110.P2	MEC09110	Practical	Monday	9:00	2:00	7-13	Merch.B62.se	Eb.Mec.Smith, Gareth	Eb.Bengmt.3
+MEC09110.L1	MEC09110	Lecture	Tuesday	11:00	2:00	2-13	Merch.A55	Eb.Mec.Smith, Gareth	Eb.Bengmt.3
+MEC09112.P1a	MEC09112	Practical	Monday	12:00	1:00	2-4	Merch.A24.se	Eb.Mec.Webster, Dave	Eb.Bengewm.3	Eb.Bengmem.3
+MEC09112.P2a	MEC09112	Practical	Monday	12:00	1:00	5-12	Merch.B62.se	Eb.Mec.Webster, Dave	Eb.Bengewm.3	Eb.Bengmem.3
+MEC09112.P3c	MEC09112	Practical	Monday	14:00	2:00	2-13	Merch.B55-1.se	Eb.Mec.Webster, Dave	Eb.Bengewm.3	Eb.Bengme.3	Eb.Bengmem.3
+MEC09112.T1b	MEC09112	Tutorial	Tuesday	12:00	1:00	2-13	Merch.H14	Eb.Mec.Webster, Dave	Eb.Bengewm.3	Eb.Bengme.3	Eb.Bengmem.3
+MEC09112.T1a	MEC09112	Tutorial	Tuesday	14:00	1:00	2-13	Merch.H7	Eb.Mec.Webster, Dave	Eb.Bengewm.3	Eb.Bengmem.3
+MEC09112.P3b	MEC09112	Practical	Tuesday	15:00	2:00	2-13	Merch.B55-1.se	Eb.Mec.Webster, Dave	Eb.Bengme.3
+MEC09112.P1c	MEC09112	Practical	Wednesday	11:00	1:00	2-4	Merch.A24.se	Eb.Mec.Webster, Dave	Eb.Bengewm.3	Eb.Bengme.3	Eb.Bengmem.3
+MEC09112.P2c	MEC09112	Practical	Wednesday	11:00	1:00	5-12	Merch.B62.se	Eb.Mec.Webster, Dave	Eb.Bengewm.3	Eb.Bengme.3	Eb.Bengmem.3
+MEC09112.T1d	MEC09112	Tutorial	Thursday	9:00	1:00	2-13	Merch.H14	Eb.Mec.Webster, Dave	Eb.Bengewm.4pt	Eb.Bengme.4pt
+MEC09112.P3d	MEC09112	Practical	Thursday	10:00	2:00	2-13	Merch.B55-1.se	Eb.Mec.Webster, Dave	Eb.Bengewm.4pt	Eb.Bengme.4pt
+MEC09112.P1d	MEC09112	Practical	Thursday	13:00	1:00	2-4	Merch.A24.se	Eb.Mec.Webster, Dave	Eb.Bengewm.4pt	Eb.Bengme.4pt
+MEC09112.P2d	MEC09112	Practical	Thursday	13:00	1:00	5-12	Merch.B62.se	Eb.Mec.Webster, Dave	Eb.Bengewm.4pt	Eb.Bengme.4pt
+MEC09112.P1b	MEC09112	Practical	Friday	9:00	1:00	2-4	Merch.A24.se	Eb.Mec.Webster, Dave	Eb.Bengme.3
+MEC09112.P2b	MEC09112	Practical	Friday	9:00	1:00	5-12	Merch.B62.se	Eb.Mec.Webster, Dave	Eb.Bengme.3
+MEC09112.P3a	MEC09112	Practical	Friday	10:00	2:00	2-13	Merch.B55-1.se	Eb.Mec.Webster, Dave	Eb.Bengewm.3	Eb.Bengmem.3
+MEC09112.T1c	MEC09112	Tutorial	Friday	13:00	1:00	2-13	Merch.G4	Eb.Mec.Webster, Dave	&nbsp;
+MEC09116.P1	MEC09116	Practical	Friday	9:00	2:00	2-13	Merch.B68-1.se	Eb.Mec.Black, Douglas	Eb.Bengmt.3
+MEC09116.L1	MEC09116	Lecture	Friday	11:00	2:00	2-13	Merch.C19	Eb.Mec.Black, Douglas	Eb.Bengmt.3
+MEC09117.Li	MEC09117	Lecture	Monday	11:00	2:00	2, 5-9, 12-13	Merch.H10	Eb.Mec.Grassie, Tom	Eb.Bengegy.3a	Eb.Bengegy.3b
+MEC09117.Lii	MEC09117	Lecture	Monday	11:00	2:00	3-4	Merch.H10	Eb.Mec.Muneer, Tariq	Eb.Bengegy.3a	Eb.Bengegy.3b
+MEC09117.Liii	MEC09117	Lecture	Monday	11:00	2:00	10-11	Merch.H10	Eb.Ele.Henderson, Douglas	Eb.Bengegy.3a	Eb.Bengegy.3b
+MEC09117.T1ai	MEC09117	Tutorial	Monday	14:00	2:00	2, 5-9, 12-13	Merch.A16.se	Eb.Mec.Grassie, Tom	Eb.Bengegy.3a
+MEC09117.T1aii	MEC09117	Tutorial	Monday	14:00	2:00	3-4	Merch.A16.se	Eb.Mec.Muneer, Tariq	Eb.Bengegy.3a
+MEC09117.T1aiii	MEC09117	Tutorial	Monday	14:00	2:00	10-11	Merch.A16.se	Eb.Ele.Henderson, Douglas	Eb.Bengegy.3a
+MEC09117.T1bi	MEC09117	Tutorial	Monday	16:00	2:00	2, 5-9, 12-13	Merch.A16.se	Eb.Mec.Grassie, Tom	Eb.Bengegy.3b
+MEC09117.T1bii	MEC09117	Tutorial	Monday	16:00	2:00	3-4	Merch.A16.se	Eb.Mec.Muneer, Tariq	Eb.Bengegy.3b
+MEC09117.T1biii	MEC09117	Tutorial	Monday	16:00	2:00	10-11	Merch.A16.se	Eb.Ele.Henderson, Douglas	Eb.Bengegy.3b
+MEC09118.T1e	MEC09118	Tutorial	Monday	9:00	2:00	2-13	Merch.H7	Eb.Mec.Grassie, Tom	Eb.Bengele.3
+MEC09118.T1a	MEC09118	Tutorial	Monday	15:00	2:00	2-13	Merch.C18	Eb.Mec.Tannous, Joe	Eb.Bengcom.3	Eb.Bengcpt.3
+MEC09118.T1h	MEC09118	Tutorial	Tuesday	15:00	2:00	2-13	Merch.H7	Eb.Mec.Askey, Martin	Eb.Bengmem.3
+MEC09118.T1g	MEC09118	Tutorial	Wednesday	9:00	2:00	2-13	Merch.H14	Eb.Mec.Askey, Martin	Eb.Bengme.3	Eb.Bengmt.3
+MEC09118.T1f	MEC09118	Tutorial	Wednesday	9:00	2:00	2-13	Merch.H7	Eb.Mec.Grassie, Tom	Eb.Bengewm.3	Eb.Bengpe.3
+MEC09118.T1b	MEC09118	Tutorial	Wednesday	11:00	2:00	2-13	Merch.H7	Eb.Mec.Tannous, Joe	Eb.Bengee.3	Eb.Pd.3
+MEC09118.L1	MEC09118	Lecture	Thursday	9:00	2:00	2-13	Merch.A17	Eb.Mec.Tannous, Joe	Eb.Bengcom.3	Eb.Bengcpt.3	Eb.Bengee.3	Eb.Bengee.4pt	Eb.Bengegy.3a	Eb.Bengegy.3b	Eb.Bengele.3	Eb.Bengele.4pt	Eb.Bengewm.3	Eb.Bengewm.5pt	Eb.Bengme.3	Eb.Bengme.5pt	Eb.Bengmem.3	Eb.Bengmt.3	Eb.Bengpe.3	Eb.Pd.3
+MEC09118.T1d	MEC09118	Tutorial	Thursday	11:00	2:00	2-13	Merch.H7	Eb.Mec.Goh, Keng	Eb.Bengegy.3b
+MEC09118.T1i	MEC09118	Tutorial	Thursday	12:00	1:00	2-13	Merch.G4	Eb.Mec.Tannous, Joe	Eb.Bengee.4pt	Eb.Bengele.4pt	Eb.Bengewm.5pt	Eb.Bengme.5pt
+MEC09118.T1c	MEC09118	Tutorial	Friday	13:00	2:00	2-13	Merch.H7	Eb.Mec.Goh, Keng	Eb.Bengegy.3a
+MEC10100.L1	MEC10100	Lecture	Thursday	9:00	2:00	2-13	Merch.G29	Eb.Mec.Askey, Martin	Eb.Bengpe.4	Eb.Pd.4
+MEC10100.T1	MEC10100	Tutorial	Thursday	11:00	2:00	2-13	Merch.G29	Eb.Mec.Askey, Martin	Eb.Bengpe.4	Eb.Pd.4
+MEC10103.L/T1	MEC10103	Lecture/Tutorial	Monday	14:00	2:00	2-13	Merch.H17	Eb.Mec.Shearer, Neil	Eb.St.4	Ls.Ses.4
+MEC10103.L	MEC10103	Lecture	Tuesday	12:00	2:00	2-13	Merch.G29	Eb.Mec.Shearer, Neil	Eb.St.4	Ls.Ses.4
+MEC10104.L1	MEC10104	Lecture	Monday	9:00	2:00	2-13	Merch.H15	Eb.Mec.Goh, Keng	Eb.Bengmt.4
+MEC10104.P1	MEC10104	Practical	Monday	15:00	2:00	2-13	Merch.B68-2.se	Eb.Mec.Goh, Keng	Eb.Bengmt.4
+MEC10106.Pb	MEC10106	Practical	Monday	15:00	2:00	2-12	Merch.C30.se	Eb.Mec.Boswell, Colin,Eb.Mec.Shanmugakani, Pavithiran	Eb.Bengme.6pt
+MEC10106.Lb	MEC10106	Practical	Monday	17:00	1:00	2-12	Merch.A55	Eb.Mec.Shanmugakani, Pavithiran	Eb.Bengme.6pt
+MEC10106.Paii	MEC10106	Practical	Tuesday	15:00	3:00	2-12	Merch.B55-2	Eb.Mec.Shanmugakani, Pavithiran	Eb.Bengewm.4	Eb.Bengme.4	Eb.Bengmem.4
+MEC10106.La	MEC10106	Practical	Thursday	9:00	1:00	2-12	Merch.H11	Eb.Mec.Shanmugakani, Pavithiran	Eb.Bengewm.4	Eb.Bengewm.6pt	Eb.Bengme.4	Eb.Bengmem.4
+MEC10106.Pai	MEC10106	Practical	Thursday	10:00	3:00	2-12	Merch.B55-2	Eb.Mec.Shanmugakani, Pavithiran	Eb.Bengewm.4	Eb.Bengewm.6pt	Eb.Bengme.4	Eb.Bengmem.4
+MEC10108.P2bi	MEC10108	Practical	Monday	11:00	2:00	2-9, 11-12	Merch.B55-1.se	Eb.Mec.Chowdhry, Sandeep	Eb.Bengpe.4	Eb.St.4
+MEC10108.P2bii	MEC10108	Practical	Monday	11:00	2:00	10	M.Kilby.C16	Eb.Mec.Chowdhry, Sandeep	Eb.Bengpe.4	Eb.St.4
+MEC10108.P1b	MEC10108	Practical	Wednesday	9:00	2:00	2-12	Merch.B55-1.se	Eb.Mec.Chowdhry, Sandeep	Eb.Bengpe.4	Eb.St.4
+MEC10108.P2a	MEC10108	Practical	Wednesday	11:00	2:00	2-12	Merch.B55-2	Eb.Mec.Chowdhry, Sandeep	Eb.Pd.4
+MEC10108.P1a	MEC10108	Practical	Friday	11:00	2:00	2-12	Merch.B55-2	Eb.Mec.Chowdhry, Sandeep	Eb.Pd.4
+MEC10110.L	MEC10110	Lecture	Monday	11:00	2:00	2-13	Merch.F27	Eb.Mec.Kubie, Jorge	Eb.Bengegy.4	Eb.Bengme.4	Eb.Bengme.6pt	Eb.Bengmem.4
+MEC10110.T	MEC10110	Tutorial	Friday	13:00	2:00	2-13	Merch.H18	Eb.Mec.Kubie, Jorge	Eb.Bengegy.4	Eb.Bengme.4	Eb.Bengme.6pt	Eb.Bengmem.4
+MEC10112.L1	MEC10112	Lecture	Tuesday	9:00	1:00	2-13	Merch.B69.se	Eb.Mec.Mcwhinnie, Jim	Eb.Bengmt.4
+MEC10112.T1	MEC10112	Tutorial	Tuesday	10:00	1:00	2-13	Merch.B69.se	Eb.Mec.Mcwhinnie, Jim	Eb.Bengmt.4
+MEC10112.P1	MEC10112	Practical	Tuesday	12:00	2:00	2-13	Merch.B69.se	Eb.Mec.Mcwhinnie, Jim	Eb.Bengmt.4
+MEC10113.L1	MEC10113	Lecture	Monday	9:00	2:00	2-13	Merch.G31	Eb.Mec.Muneer, Tariq	Eb.Bengegy.4
+MEC10113.L2i	MEC10113	Lecture	Wednesday	10:00	1:00	2-7	Merch.H6	Eb.Bsv.Garnier, Celine	Eb.Bengegy.4
+MEC10113.L2ii	MEC10113	Lecture	Wednesday	10:00	1:00	8-13	Merch.H6	Eb.Bsv.Adams, Mel	Eb.Bengegy.4
+MEC11107.L/T	MEC11107	Lecture/Tutorial	Friday	9:00	2:00	2-13	Merch.H18	Eb.Mec.Smith, Gareth	Eb.A&Ce.M	Eb.A&Ce.Mpt2	Eb.Cae.M	Eb.Mech.M	Eb.Mech.Mpt1	Eb.Mechen.M	Eb.Mechen.Mpt1
+MEC11107.P2	MEC11107	Practical	Friday	12:00	1:00	2-13	Merch.B62.se	Eb.Mec.Smith, Gareth	Eb.A&Ce.M	Eb.A&Ce.Mpt2	Eb.Cae.M	Eb.Mech.M	Eb.Mech.Mpt1	Eb.Mechen.M	Eb.Mechen.Mpt1
+MEC11107.P1	MEC11107	Practical	Friday	15:00	1:00	2-13	Merch.B62.se	Eb.Mec.Smith, Gareth	Eb.A&Ce.M	Eb.A&Ce.Mpt2	Eb.Cae.M	Eb.Mech.M	Eb.Mech.Mpt1	Eb.Mechen.M	Eb.Mechen.Mpt1
+MEC11109.L/T1	MEC11109	Lecture/Tutorial	Thursday	9:00	2:00	2-4, 6, 8-13	Merch.G31	Eb.Mec.Shearer, Neil	Eb.Ame.M	Eb.Pe.M
+MEC11109.L1	MEC11109	Lecture	Thursday	11:00	2:00	2-4, 6, 8-13	Merch.G31	Eb.Mec.Shearer, Neil	Eb.Ame.M	Eb.Pe.M
+MEC11109.P1	MEC11109	Lecture/Tutorial	Thursday	11:00	2:00	5, 7	Merch.A18.se	Eb.Mec.Shearer, Neil	Eb.Ame.M	Eb.Pe.M
+MEC11115.L/Ti	MEC11115	Lecture/Tutorial	Monday	9:00	2:00	2-3, 5-6, 8-9, 11-12	Merch.H14	Eb.Mec.Davidson, Alan	Eb.Ame.M	Eb.Ame.Mpt2
+MEC11115.L/Tii	MEC11115	Lecture/Tutorial	Monday	12:00	2:00	2-3, 5-6, 8-9, 11-12	Merch.H17	Eb.Mec.Davidson, Alan	Eb.Ame.M	Eb.Ame.Mpt2
+MEC11115.P1	MEC11115	Practical	Monday	12:00	3:00	4, 7, 10, 13	Merch.A18.se	Eb.Mec.Davidson, Alan	Eb.Ame.M	Eb.Ame.Mpt2
+MEC11116.T1	MEC11116	Tutorial	Friday	9:00	1:00	2-5, 7-8, 10-11	Merch.H17	Eb.Mec.Hindle, Colin	Eb.Ame.M	Eb.Ame.Mpt1	Eb.Pe.M
+MEC11116.P1i	MEC11116	Practical	Friday	10:00	2:00	6	Merch.A18.se	Eb.Mec.Hindle, Colin	Eb.Ame.M	Eb.Ame.Mpt1	Eb.Pe.M
+MEC11116.P1ii	MEC11116	Practical	Friday	10:00	2:00	9, 12	Merch.A18.se	Eb.Mec.Hindle, Colin	Eb.Ame.M	Eb.Pe.M
+MEC11116.L1	MEC11116	Lecture	Friday	15:00	3:00	2-13	Merch.G31	Eb.Mec.Hindle, Colin	Eb.Ame.M	Eb.Ame.Mpt1	Eb.Pe.M
+MEC11121.L/Ti	MEC11121	Lecture	Tuesday	9:00	3:00	2-8	Merch.G27	Eb.Mec.Muneer, Tariq	Eb.Eenv.M	Eb.Eenv.Mpt1	Eb.Re.M	Eb.Re.Mpt1
+MEC11121.L/Tii	MEC11121	Lecture	Tuesday	9:00	3:00	9-13	Merch.B68-2.se,Merch.B68-1.se	Eb.Mec.Goh, Keng	Eb.Eenv.M	Eb.Eenv.Mpt1	Eb.Re.M	Eb.Re.Mpt1
+MEC11122.L/Ti	MEC11122	Lecture/Tutorial	Wednesday	15:00	3:00	2-8	Merch.H9	Eb.Bsv.Strang, Jeremy	Eb.Envs.M	Eb.Envs.Mpt1	Eb.Re.M	Eb.Sem.Mfe	Eb.Sem.Mpt1	Eb.Sem.Msbd
+MEC11122.L/Tii	MEC11122	Lecture/Tutorial	Wednesday	15:00	3:00	9-13	Merch.H9	Eb.Mec.Prentice.Douglas	Eb.Envs.M	Eb.Envs.Mpt1	Eb.Re.M	Eb.Sem.Mfe	Eb.Sem.Mpt1	Eb.Sem.Msbd
+MEC11507.L1	MEC11507	Lecture/Tutorial	Tuesday	18:00	1:00	2, 4, 6, 8, 10, 12	Merch.A76.be	Eb.Mec.Boswell, Colin	Eb.Bengmem.5
+MUS07106.L	MUS07106	Lecture	Monday	13:00	2:00	2-13	Merch.F28	Mu.Ph	Mu.Ba.1
+MUS08112	MUS08112	Lecture	Thursday	10:00	2:00	2-13	Merch.F28	Mu.Ph	Mu.Ba.2
+PSY07102.L3	PSY07102	Lecture	Monday	12:00	2:00	12	M.Kilby.C12,M.Kilby.C15,M.Kilby.C16,M.Kilby.C02,M.Kilby.C03,M.Kilby.C04,M.Kilby.C10,M.Kilby.C09,M.Kilby.C11	Hss.Psy.Dickson, Adele	Hss.Bacr.1a	Hss.Bacr.1b	Hss.Bahp.1a	Hss.Bahp.1b	Hss.Bahp.1c	Hss.Baps.1a	Hss.Baps.1b	Hss.Bass.1a	Hss.Bass.1b
+SCA11100	SCA11100	Lecture	Thursday	10:00	3:00	2-15 - Assessment We	Merch.SA Studio2.dm	Dm.Jm	Dm.Maspd	Dm.Masw	Dm.Masw P/T1
+SCA11101	SCA11101	Lecture	Friday	9:00	4:00	2-15 - Assessment We	Merch.SA Studio2.dm	Dm.Ovh	Dm.Maspd	Dm.Maspd P/T2	Dm.Masw	Dm.Masw P/T2
+SCA11102.a	SCA11102	Lecture	Thursday	14:00	3:00	2-12, 15 - Assessmen	Merch.SA Studio1.dm	Dm.Jm	Dm.Masw	Dm.Masw P/T1
+SCA11102.b	SCA11102	Lecture	Friday	14:00	3:00	2-12, 15 - Assessmen	Merch.SA Studio2.dm	Dm.Jm	Dm.Masw	Dm.Masw P/T1
+SCA11111.T1	SCA11111	Lecture	Thursday	13:00	4:00	2-13	Merch.G27,Merch.G29	&nbsp;	&nbsp;
+SCA11111	SCA11111	Lecture	Thursday	14:00	3:00	2-15 - Assessment We	Merch.SA Studio2.dm	Dm.Ovh	Dm.Maspd	Dm.Maspd P/T1
+SCA11118b	SCA11118	Lecture	Tuesday	9:00	5:00	9-15 - Assessment We	Merch.SA Studio1.dm	&nbsp;	&nbsp;
+SCA11118	SCA11118	Lecture	Wednesday	9:00	9:00	2-15 - Assessment We	Merch.SA Studio2.dm	Dm.Ph	Dm.Mafilm
+SCA11128a	SCA11128	Lecture	Tuesday	9:00	9:00	2-13	Merch.H6	Dm.Ph	Dm.Mfaafp
+SCA11128b	SCA11128	Lecture	Wednesday	9:00	9:00	2-10, 12-14 - Assess	Merch.G29	Dm.Gh	&nbsp;
+SCA11128c	SCA11128	Lecture	Wednesday	13:00	6:00	11	Merch.G29	&nbsp;	&nbsp;
+SCA11130a	SCA11130	Lecture	Tuesday	13:00	4:00	2-15 - Assessment We	Merch.SA Studio2.dm	&nbsp;	Dm.Mafilm
+SCA11130b	SCA11130	Lecture	Tuesday	14:00	4:00	2-15 - Assessment We	Merch.SA Studio1.dm	&nbsp;	&nbsp;
+SET07102.L1	SET07102	Lecture	Tuesday	9:00	1:00	2-13	Merch.A17	Co.Set.Chisholm, Ken,Co.Set.Cumming, Andrew	Co.Cc1f-A	Co.Cc1f-B	Co.Cc1f-C	Co.Cc1f-D	Co.Cc1f-E	Co.Cc1f-F	Co.Cwt1f
+SET07102.P2c	SET07102	Practical	Tuesday	11:00	2:00	2-13	M.Kilby.C01,M.Kilby.C02	Co.Set.Chisholm, Ken,Co.Set.Cumming, Andrew	Co.Cc1f-D	Co.Cc1f-F
+SET07102.P2a	SET07102	Practical	Wednesday	14:00	2:00	2-13	M.Kilby.C10,M.Kilby.C09	Co.Set.Chisholm, Ken	Co.Cc1f-A	Co.Cc1f-B
+SET07102.P2b	SET07102	Practical	Thursday	12:00	2:00	2-13	M.Kilby.C01,M.Kilby.C02	Co.Set.Chisholm, Ken,Co.Set.Cumming, Andrew	Co.Cc1f-C	Co.Cc1f-E	Co.Cwt1f
+SET07102.L2	SET07102	Lecture	Friday	9:00	1:00	2-13	Merch.A17	Co.Set.Chisholm, Ken,Co.Set.Cumming, Andrew	Co.Cc1f-A	Co.Cc1f-B	Co.Cc1f-C	Co.Cc1f-D	Co.Cc1f-E	Co.Cc1f-F	Co.Cwt1f
+SET07102.P1	SET07102	Practical	Friday	10:00	1:00	2-13	M.Kilby.C01,M.Kilby.C02,M.Kilby.C03,M.Kilby.C04	Co.Set.Cumming, Andrew	Co.Cc1f-A	Co.Cc1f-B	Co.Cc1f-C	Co.Cc1f-D	Co.Cc1f-E	Co.Cc1f-F	Co.Cwt1f
+SET07103.L1	SET07103	Lecture	Tuesday	14:00	1:00	2-13	Merch.G4	Co.Csn.Mccarra, Greg	&nbsp;
+SET07103.P1	SET07103	Practical	Thursday	14:00	3:00	2-13	M.Kilby.C02	Co.Csn.Mccarra, Greg	&nbsp;
+SET07104.L1	SET07104	Lecture	Tuesday	15:00	1:00	2, 4, 6, 10	Merch.A17	Co.Set.Scott, Andrea	&nbsp;
+SET08106.W1	SET08106	Workshop	Tuesday	13:00	2:00	2-13	M.Kilby.C10	Co.Set.Peng, Taoxin	Co.Ibis1f
+SET08106.P1	SET08106	Practical	Thursday	11:00	2:00	2-13	M.Kilby.C04	Co.Set.Peng, Taoxin	Co.Ibis1f
+SET08106.L1	SET08106	Lecture	Thursday	16:00	2:00	2-13	Merch.C19	Co.Set.Peng, Taoxin	Co.Ibis1f
+SET08108.P1b	SET08108	Practical	Monday	9:00	2:00	2-13	M.Kilby.C02,M.Kilby.C03,M.Kilby.C04	Co.Set.Lawson, Alistair,Co.Set.Urquhart, Neil	Co.Cc2f-D	Co.Cie2f	Co.Cwt2f
+SET08108.L1	SET08108	Lecture	Monday	14:00	1:00	2-13	Merch.H5	Co.Set.Lawson, Alistair,Co.Set.Urquhart, Neil	Co.Cc2f-A	Co.Cc2f-B	Co.Cc2f-C	Co.Cc2f-D	Co.Cie2f	Co.Cwt2f
+SET08108.T1a	SET08108	Tutorial	Wednesday	9:00	1:00	2-13	Merch.H5	Co.Set.Lawson, Alistair,Co.Set.Urquhart, Neil,Co.Set.Kemmer, Rob	Co.Cc2f-A	Co.Cc2f-B	Co.Cc2f-C	Co.Cc2f-D	Co.Cie2f	Co.Cwt2f
+SET08108.P1a	SET08108	Practical	Thursday	15:00	2:00	2-13	M.Kilby.C10,M.Kilby.C09,M.Kilby.C08	Co.Set.Lawson, Alistair,Co.Set.Urquhart, Neil	Co.Cc2f-A	Co.Cc2f-B	Co.Cc2f-C
+SET09101.P1	SET09101	Practical	Tuesday	9:00	2:00	2-13	M.Kilby.C01,M.Kilby.C02	Co.Set.Owens, John	Co.Cie3f	Co.Cse3f-A	Co.Cse3f-B	Co.Cse4wbl
+SET09101.L1	SET09101	Lecture	Tuesday	11:00	2:00	2-13	Merch.B2	Co.Set.Owens, John	Co.Cie3f	Co.Cse3f-A	Co.Cse3f-B	Co.Cse4wbl
+SET09102.T1a	SET09102	Tutorial	Monday	11:00	1:00	2-13	Merch.F28	Co.Set.Urquhart, Neil,Co.Set.Kemmer, Rob,Co.Csn.Mccarra, Greg	Co.Cc3f-A	Co.Cc4wbl
+SET09102.P1a	SET09102	Practical	Tuesday	15:00	2:00	2-13	M.Kilby.C09,M.Kilby.C08	Co.Set.Urquhart, Neil,Co.Set.Kemmer, Rob,Co.Csn.Mccarra, Greg	Co.Cc3f-A	Co.Cc4wbl	Co.Cse4wbl
+SET09102.T1b	SET09102	Tutorial	Tuesday	17:00	1:00	2-13	Merch.F27	Co.Set.Urquhart, Neil,Co.Set.Kemmer, Rob,Co.Csn.Mccarra, Greg	Co.Cse3f-A	Co.Cse3f-B	Co.Cse4wbl
+SET09102.P1b	SET09102	Practical	Thursday	9:00	2:00	2-13	M.Kilby.C10,M.Kilby.C09	Co.Set.Urquhart, Neil,Co.Set.Kemmer, Rob,Co.Csn.Mccarra, Greg	Co.Cse3f-A	Co.Cse3f-B
+SET09102.P1c	SET09102	Practical	Thursday	12:00	2:00	2-13	M.Kilby.C08	Co.Set.Urquhart, Neil,Co.Set.Kemmer, Rob,Co.Csn.Mccarra, Greg	&nbsp;
+SET09102.L1	SET09102	Lecture	Friday	13:00	2:00	2-13	Merch.A55	Co.Set.Urquhart, Neil,Co.Set.Kemmer, Rob,Co.Csn.Mccarra, Greg	Co.Cc3f-A	Co.Cc4wbl	Co.Cse3f-A	Co.Cse3f-B	Co.Cse4wbl
+SET09103.L1	SET09103	Lecture	Monday	9:00	2:00	2-13	Merch.G32	Co.Set.Dougall, Colin	Co.Cc3f-A	Co.Cc4wbl	Co.Clc3f	Co.Clc4wbl	Co.Cwt3f	Co.Cwt4fwbl
+SET09103.P1b	SET09103	Practical	Monday	14:00	2:00	2-13	M.Kilby.C09	Co.Set.Dougall, Colin	Co.Clc3f	Co.Clc4wbl	Co.Cwt3f	Co.Cwt4fwbl
+SET09103.P1a	SET09103	Practical	Thursday	9:00	2:00	2-13	M.Kilby.C01	Co.Set.Dougall, Colin	Co.Cc3f-A	Co.Cc4wbl
+SET09104.L1	SET09104	Lecture	Monday	11:00	2:00	2-13	Merch.F29	Co.Set.Lawson, Alistair	Co.Ccsf3f-A	Co.Ccsf3f-B	Co.Ccsf4wbl	Co.Clc3f	Co.Clc4wbl	Co.Cwt3f	Co.Cwt4fwbl
+SET09104.P1c	SET09104	Practical	Tuesday	16:00	2:00	2-13	Merch.B56.co	Co.Set.Lawson, Alistair	Co.Ccsf3f-B	Co.Ccsf4wbl
+SET09104.P1b	SET09104	Practical	Wednesday	10:00	2:00	2-13	Merch.B56.co	Co.Set.Lawson, Alistair	Co.Clc3f	Co.Cwt3f	Co.Cwt4fwbl
+SET09104.P1a	SET09104	Practical	Thursday	11:00	2:00	2-13	Merch.B56.co	Co.Set.Lawson, Alistair	Co.Ccsf3f-A	Co.Clc4wbl
+SET09106.P1	SET09106	Practical	Monday	10:00	2:00	2-13	M.Kilby.C07	Co.Set.Chisholm, Ken	&nbsp;
+SET09106.L1	SET09106	Lecture	Friday	13:00	2:00	2-13	Merch.C18	Co.Set.Chisholm, Ken	&nbsp;
+SET09112.L1	SET09112	Lecture	Monday	9:00	2:00	2-13	Merch.H10	Co.Set.Peng, Taoxin	Co.Ccn&S3fa - Direct Entry	Co.Ccn&S3fb - Direct Entry
+SET09112.P1a	SET09112	Practical	Monday	14:00	2:00	2-13	M.Kilby.C06,M.Kilby.C04	Co.Set.Peng, Taoxin	Co.Ccn&S3fa - Direct Entry	Co.Ccn&S3fb - Direct Entry
+SET09112.T1a	SET09112	Tutorial	Monday	16:00	1:00	2-13	Merch.H18	Co.Inf.Maclean, Aileen	Co.Ccn&S3fa - Direct Entry	Co.Ccn&S3fb - Direct Entry
+SET09115.L1	SET09115	Lecture	Monday	13:00	1:00	2-13	Merch.H18	Co.Set.Cumming, Andrew	Co.Cie3f	Co.Cie4f
+SET09115.L2	SET09115	Lecture	Wednesday	15:00	1:00	2-13	Merch.H11	Co.Set.Cumming, Andrew	Co.Cie3f	Co.Cie4f
+SET09115.P1	SET09115	Practical	Thursday	9:00	2:00	2-13	M.Kilby.C06	Co.Set.Cumming, Andrew	Co.Cie3f	Co.Cie4f
+SET09116.L1	SET09116	Lecture	Monday	9:00	2:00	2-13	Merch.F29	Co.Set.Smith, Sally,Co.Imd.Chalmers, Kevin	Co.Cie3f	Co.Cm&Ecs3f	Co.Cm&Ecs4fwbl	Co.Cse3f-A	Co.Cse3f-B	Co.Cse4wbl
+SET09116.P1a	SET09116	Practical	Monday	11:00	2:00	2-13	Merch.B56.co	Co.Set.Smith, Sally,Co.Imd.Chalmers, Kevin	Co.Cse3f-A
+SET09116.P1b	SET09116	Practical	Wednesday	12:00	2:00	2-13	Merch.B56.co	Co.Set.Smith, Sally,Co.Imd.Chalmers, Kevin	Co.Cie3f	Co.Cse4wbl
+SET09116.P1c	SET09116	Practical	Thursday	14:00	2:00	2-13	Merch.B56.co	Co.Set.Smith, Sally,Co.Imd.Chalmers, Kevin	Co.Cm&Ecs3f	Co.Cm&Ecs4fwbl	Co.Cse3f-B
+SET10101.L1	SET10101	Lecture	Monday	9:00	2:00	2-13	Merch.G2	Co.Set.Liu, Xiaodong	Co.Cc4f	Co.Cc5wbl	Co.Cie4f	Co.Cse4f	Co.Cse5wbl
+SET10101.P1	SET10101	Practical	Tuesday	14:00	2:00	2-13	M.Kilby.C07,M.Kilby.C04	Co.Set.Liu, Xiaodong	Co.Cc4f	Co.Cc5wbl	Co.Cie4f	Co.Cse4f	Co.Cse5wbl
+SET11101.L1	SET11101	Lecture	Thursday	14:00	1:00	2-13	Merch.H10	Co.Set.Chisholm, Ken	Co.Mewd1f	Co.Misd1f	Co.Mstw1f	Co.Mstw1p
+SET11101.P1	SET11101	Practical	Thursday	15:00	1:00	2-13	M.Kilby.C03,M.Kilby.C04	Co.Set.Chisholm, Ken	Co.Mewd1f	Co.Misd1f	Co.Mstw1f	Co.Mstw1p
+SET11101.T1	SET11101	Tutorial	Friday	11:00	1:00	2-13	Merch.B2	Co.Set.Chisholm, Ken	Co.Mewd1f	Co.Misd1f	Co.Mstw1f	Co.Mstw1p
+SET11102.L1	SET11102	Lecture	Wednesday	9:00	2:00	2-13	Merch.H17	Co.Set.Owens, John	Co.Misd1f	Co.Mstw1f	Co.Mstw1p
+SET11102.P1	SET11102	Practical	Wednesday	11:00	2:00	2-13	M.Kilby.C07,M.Kilby.C06	Co.Set.Owens, John	Co.Misd1f	Co.Mstw1f	Co.Mstw1p
+SET11104.L1	SET11104	Lecture	Monday	13:00	2:00	2-13	Merch.C18	Co.Set.Owens, John	Co.Mase1f	Co.Mase1p
+SET11104.P1	SET11104	Practical	Monday	15:00	1:00	2-13	M.Kilby.C07	Co.Set.Owens, John	Co.Mase1f	Co.Mase1p
+SET11105.L1	SET11105	Lecture	Tuesday	11:00	1:00	2-13	Merch.H9	Co.Set.Dougall, Colin	Co.Mase1f	Co.Mase1p	Co.Mstw1f	Co.Mstw2p
+SET11105.P1a	SET11105	Practical	Tuesday	13:00	3:00	2-13	M.Kilby.C01,M.Kilby.C02	Co.Set.Dougall, Colin	Co.Mstw1f	Co.Mstw2p
+SET11105.P1b	SET11105	Practical	Wednesday	14:00	3:00	2-13	Merch.B56.co	Co.Set.Dougall, Colin	Co.Mase1f	Co.Mase1p
+SET11106.L1	SET11106	Lecture	Monday	13:00	2:00	2-13	Merch.H10	Co.Set.Kemmer, Rob	Co.Mbit1f	Co.Mewd1f	Co.Misd1f
+SET11106.T1a	SET11106	Tutorial	Friday	10:00	1:00	2-13	Merch.A55	Co.Set.Kemmer, Rob	Co.Mbit1f	Co.Mewd1f	Co.Misd1f
+SET11106.P1a	SET11106	Practical	Friday	12:00	1:00	2-13	M.Kilby.C08	Co.Set.Kemmer, Rob	Co.Mbit1f	Co.Mewd1f	Co.Misd1f
+SET11110.P1	SET11110	Practical	Thursday	9:00	2:00	2-13	Merch.B56.co	Co.Set.Lawson, Alistair	Co.Mase1f	Co.Mase1fjan	Co.Mase1p
+SET11110.L1	SET11110	Lecture	Thursday	13:00	2:00	2-13	Merch.G28	Co.Set.Lawson, Alistair	Co.Mase1f	Co.Mase1fjan	Co.Mase1p
+SET11112.L1	SET11112	Lecture	Thursday	12:00	2:00	2-13	Merch.H18	Co.Set.Dougall, Colin	Co.Mewd1f	Co.Misue1f
+SET11112.P1	SET11112	Practical	Thursday	16:00	2:00	2-13	Merch.B56.co	Co.Set.Dougall, Colin	Co.Mewd1f	Co.Misue1f
+SET11115.L1	SET11115	Lecture	Tuesday	13:00	1:00	2-13	Merch.G27	Co.Imd.Chalmers, Kevin	Co.Cmengse5	Co.Cmengse6wbl
+SET11115.P1	SET11115	Practical	Tuesday	14:00	2:00	2-13	Merch.B56.co	Co.Imd.Chalmers, Kevin	Co.Cmengse5	Co.Cmengse6wbl
+SET11115.L2	SET11115	Lecture	Tuesday	16:00	1:00	2-13	Merch.G27	Co.Imd.Chalmers, Kevin	Co.Cmengse5	Co.Cmengse6wbl
+SET11116.L1	SET11116	Lecture	Tuesday	11:00	1:00	2-7	Merch.H11	Co.Set.Smith, Sally	Co.Cmengse5	Co.Cmengse6wbl	Co.Cmsciimd5f
+SOC10101.L1	SOC10101	Lecture	Tuesday	12:00	1:00	2-4	Merch.H5	Co.Set.Liu, Xiaodong	Co.Cc4f	Co.Ccn&S4f	Co.Ccsf4f	Co.Cie4f	Co.Clc4f	Co.Cm&Ecs4f	Co.Cse4f	Co.Cwt4f	Co.Ibis4f	Co.Iis4f
+SOC10101.P1	SOC10101	Practical	Wednesday	12:00	4:00	12	M.Kilby.C01,M.Kilby.C02,M.Kilby.C03,M.Kilby.C04	&nbsp;	Co.Clc5wbl	Co.Cse5wbl	Co.Iis5wbl
+SOC10102.L1	SOC10102	Lecture	Monday	12:00	1:00	2-4	Merch.A55	Co.Imd.Turner, Susan	Co.Cdm4f-A	Co.Cdm4f-B	Co.Cimd4f-A
+SOC11103.L1	SOC11103	Lecture	Tuesday	15:00	3:00	2-4, 13	Merch.H17	Co.Inf.Davison, Brian	Co.Mase1fjan
